@@ -1,0 +1,24 @@
+{
+  "name": "resume",
+  "version": "1.0.0",
+  "description": "Resume and Work Details",
+  "main": "resume.js",
+  "dependencies": {},
+  "devDependencies": {
+    "browser-sync": "^2.11.0",
+    "gulp": "^3.9.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rudijs/resume.git"
+  },
+  "author": "Rudi Starcevic <ooly.me@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rudijs/resume/issues"
+  },
+  "homepage": "https://github.com/rudijs/resume#readme"
+}

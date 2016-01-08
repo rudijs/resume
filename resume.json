@@ -1,0 +1,700 @@
+{
+  "name": "Rudi Starcevic",
+  "meta": {
+    "format": "FRESH@0.1.0",
+    "version": "0.1.0"
+  },
+  "info": {
+    "label": [
+      "Web Developer",
+      "Web Operations",
+      "Devops Engineer"
+    ],
+    "characterClass": "",
+    "brief": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "image": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAbYAAAAJDU0OGViYTg5LWZmYTUtNDNiZS1iYTczLTFhMmVlZTQ1ZTk1Mg.jpg"
+  },
+  "contact": {
+    "website": "https://rudijs.github.io/",
+    "phone": "",
+    "email": "rudi.starcevic@gmail.com",
+    "other": []
+  },
+  "location": {
+    "address": "",
+    "city": "",
+    "region": "Queensland",
+    "code": "",
+    "country": "Australia"
+  },
+  "social": [
+    {
+      "label": "linkedin",
+      "network": "Linked In",
+      "user": "",
+      "url": "https://www.linkedin.com/in/rudi-starcevic-b2004150"
+    },
+    {
+      "label": "github",
+      "network": "GitHub",
+      "user": "rudijs",
+      "url": "https://github.com/rudijs"
+    }
+  ],
+  "employment": {
+    "summary": "",
+    "history": [
+      {
+        "employer": "Ride Share Market",
+        "location": "Bangkok, Thailand (remote)",
+        "url": "https://ridesharemarket.com",
+        "position": "Web Developer, DevOps, Web Operations",
+        "summary": [
+          "SUMMARY TODO"
+        ],
+        "start": "2014-11-01",
+        "end": "present",
+        "keywords": [
+          "AngularJS",
+          "Node.js"
+        ],
+        "par": {
+          "problem": [
+            "Greenfield single page web application project.",
+            "Plan out, develop and deploy an open source free to use ridesharing app.",
+            "Emphasis on solid documentation and repeatable build proccesses with CI and CD."
+          ],
+          "action": [
+            "Devised a microservice architecture centered on Docker (multiple environments from development to production).",
+            "Develop backend HTTP RESTful Web API with NodeJS, MongoDB and Couchbase.",
+            "SPA frontend programing AngularJS and Material Design (Javascript, HTML, CSS).",
+            "Frontend Javascript build system with GulpJS, CI with travis and Jenkins.",
+            "Implement VPC environments with Amazon Web Services.",
+            "Developed configuration management systems with Chef Solo and Chef Server.",
+            "Implement web operations monitoring systems (Prometheus, ELK).",
+            "Implement frontend instrumentation with Google Analytics.",
+            "Setup client support systems."
+          ],
+          "result": [
+            "An MVP for the application specs produced and deployed on time and within budget.",
+            "Leveraged open source projects all the way from system OS, config management, backend and frontend to keep operations expenses to an absolute minimum.",
+            "Open source contributions produced from the project for Oauth, application logging and AMQP RPC messaging.",
+            "Communtiy help blog posts for Docker security and Elasticsearch evolved from the project."
+          ]
+        },
+        "highlights": []
+      },
+      {
+        "employer": "Klixplus Pty Ltd",
+        "location": "Queensland, Australia (remote)",
+        "url": "http://klixplus.com",
+        "position": "Devops Engineer, Web Developer, Web Operations",
+        "summary": [
+          "Devops and web app programing project to move a multi machine application from the US to EU.",
+          "Move a web app cluster of http servers, proxies and databases, high traffic streaming media web application running on bare metal to a multiple staged environment mix of Virtual machines and bare metal servers."
+        ],
+        "start": "2014-12-01",
+        "end": "2015-04-01",
+        "keywords": [
+          "Chef",
+          "VirtualBox",
+          "Postgresql",
+          "Couchbase",
+          "NGINX",
+          "HTML",
+          "CSS",
+          "Javascript",
+          "PHP",
+          "Python",
+          "Bash"
+        ],
+        "par": {
+          "problem": [
+            "Plan out a build and deploy system centered around detailed documentation and repeatable build processes.",
+            "Devised and implement a configuration management system.",
+            "Create a Local Developer Virtual Machine setup for programmers and design team.",
+            "Create a repeatable build staging environment on Virtual machines at digitalocean.com.",
+            "Configuration management for all environments including bare metal hardware."
+          ],
+          "action": [
+            "Web Development with PHP, Python, Javascript, HTML, CSS, PHP, PosgtreSQL and Couchbase.",
+            "Devops/Configuration management with Vagrant/Virtualbox, Chef Solo and Chef Server.",
+            "High availability systems with Varnish Cache, Nginx and clusters of Pgsql and Couchbase.",
+            "Advanced network security process with Iptables, SSH tunneling and port knocking.",
+            "Web operations with Logstash, Elasticsearch, Graphite/StatsD, Consul."
+          ],
+          "result": [
+            "Reduced operational expenses by moving the web cluster to more affordable and higher quality hosting hardware.",
+            "Zero extra investment required for software services or licensing.",
+            "Successfully transitioned a single stage web app cluster into a multi staged developer workflow.",
+            "Implemented repeatable build systems with Open source technology.",
+            "Clearly detailed and documented deployment and backup systems so the stakeholders have a better grip of day to day activity.",
+            "Reduced technical debt - the application owners now no longer have a black box and have confidence they can quickly recover from data or systems breakdown."
+          ]
+        },
+        "highlights": []
+      },
+      {
+        "employer": "AJAM Holdings LLC",
+        "location": "Illinois, United States (remote)",
+        "url": "https://www.linkedin.com/company/ajam-holdings-llc",
+        "position": "Web Developer, Systems Admin",
+        "summary": [
+          "Front-End and back-End web application programming plus Linux systems administration for a suite of online Nutraceutical stores."
+        ],
+        "start": "2013-08-01",
+        "end": "2014-06-01",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "Javascript",
+          "PHP",
+          "MySql",
+          "WordPress",
+          "CentOS Linux"
+        ],
+        "par": {
+          "problem": [
+            "Tasked with maintenance and bug fixing for a pre-existing affiliate sales program and WordPress sites."
+          ],
+          "action": [
+            "Orientated myself on how the systems integrate (various scheduled tasks for billing, web hooks, report generation).",
+            "Implement price point updates, template system updates that integrate with a custom USPS product delivery service.",
+            "Fix intermitent 3rd party payment processors bugs and issues.",
+            "Fix various intermitent custom USPS shipping issues.",
+            "General Linux systems administration such as system updates and backups.",
+            "Implement a unified logging system with loggly.com",
+            "Sales data mining and reports production."
+          ],
+          "result": [
+            "Continued smooth operation and sales for the web application stakeholders.",
+            "Improved documentation.",
+            "Implemented a browser testing suite with WebDriver and Selenium."
+          ]
+        },
+        "highlights": []
+      },
+      {
+        "employer": "SSC Group LLC",
+        "location": "California, United States (remote)",
+        "url": "http://sscgroupllc.com",
+        "position": "Web Developer, Web Operations",
+        "summary": [
+          "SUMMARY TODO"
+        ],
+        "start": "2012-12-01",
+        "end": "2013-08-01",
+        "keywords": [
+          "AngularJS",
+          "Node.js"
+        ],
+        "par": {
+          "problem": [
+            "Web Development with PHP, Node.js, Ruby on Rails, Javascript, HTML and CSS.",
+            "Database development with Mysql, PostgreSQL and MongoDB.",
+            "REST API development, Templating systems development, bug fixes.",
+            "Pre-existing affiliate program maintenance.",
+            "Integration with 3rd party payment processors.",
+            "Linux systems admin, Virtual Machine setup/admin/integration."
+          ]
+        },
+        "highlights": []
+      },
+      {
+        "employer": "Kinetic Business Solutions",
+        "location": "Manila, Philippines",
+        "url": "http://kineticbusinesssolutions.com",
+        "position": "IT Operations",
+        "summary": [
+          "SUMMARY TODO"
+        ],
+        "start": "2012-04-01",
+        "end": "2012-08-01",
+        "keywords": [
+          "AngularJS",
+          "Node.js"
+        ],
+        "par": {
+          "problem": [
+            "Call center IT operations including network security, VOIP inbound and outbound ViciDial systems."
+          ]
+        },
+        "highlights": []
+      },
+      {
+        "employer": "Sargas, Inc",
+        "location": "Pampanga, Philippines",
+        "url": "http://sargas.asia",
+        "position": "IT consultant and Systems Engineering",
+        "summary": [
+          "SUMMARY TODO"
+        ],
+        "start": "2012-01-01",
+        "end": "2012-07-01",
+        "keywords": [
+          "AngularJS",
+          "Node.js"
+        ],
+        "par": {
+          "problem": [
+            "Founding Partner of BPO outsourcing company.",
+            "Call center IT operations including network security, VOIP inbound and outbound ViciDial systems.",
+            "Advanced networking with Linux firewall and routing.",
+            "Advanced VOIP setup, configuration and admin.",
+            "Microsoft windows client workstation cluster setup and admin."
+          ]
+        },
+        "highlights": []
+      },
+      {
+        "employer": "Hyper Focus Media",
+        "location": "Queensland, Australia (remote)",
+        "url": "https://www.linkedin.com/company/hyper-focus-media",
+        "position": "Senior Web Developer, Web Operations and Systems Admin",
+        "summary": [
+          "SUMMARY TODO"
+        ],
+        "start": "2010-10-01",
+        "end": "2012-06-01",
+        "keywords": [
+          "AngularJS",
+          "Node.js"
+        ],
+        "par": {
+          "problem": [
+            "Senior Web Developer and Systems Administrator.",
+            "Development with PHP, Python, Django, Javascript, HTML and CSS.",
+            "Database development with PostgreSQL including HA primary/secondary.",
+            "Templating systems development, bug fixes.",
+            "CDN integration for video content and image media.",
+            "Advanced Varnish cache system implementation and configuration.",
+            "Front end build systems and deployment process development",
+            "Linux systems admin, Virtual Machine setup/admin/integration.",
+            "Distributed development team with DVCS (git)."
+          ]
+        },
+        "highlights": []
+      },
+      {
+        "employer": "Internet Media Productions",
+        "location": "Queensland, Australia (On-site and remote)",
+        "url": "https://www.linkedin.com/company/internet-media-productions-ltd",
+        "position": "Senior Web Developer, Web Operations and Systems Admin",
+        "summary": [
+          "SUMMARY TODO"
+        ],
+        "start": "2004-02-01",
+        "end": "2010-07-01",
+        "keywords": [
+          "AngularJS",
+          "Node.js"
+        ],
+        "par": {
+          "problem": [
+            "Senior Web Developer and Systems Administrator.",
+            "Development with PHP, Javascript, HTML and CSS.",
+            "Database development with Mysql and PostgreSQL including HA primary/secondary.",
+            "Affiliate program development, Template systems development.",
+            "Content management systems for affiliates.",
+            "Integration with 3rd party payment processors.",
+            "Linux systems administration and Database administration."
+          ]
+        },
+        "highlights": []
+      },
+      {
+        "employer": "First Alliance Pty Ltd",
+        "location": "Queensland, Australia",
+        "url": "http://www.firstalliance.com.au",
+        "position": "Senior Web Developer, Web Operations and Systems Admin",
+        "summary": [
+          "SUMMARY TODO"
+        ],
+        "start": "2001-03-01",
+        "end": "2003-11-01",
+        "keywords": [
+          "AngularJS",
+          "Node.js"
+        ],
+        "par": {
+          "problem": [
+            "Senior Web Developer and Systems Administrator.",
+            "Development with Coldfusion, PHP, Javascript, HTML and CSS.",
+            "Database development with PostgreSQL.",
+            "Content management systems, domain name registration web app.",
+            "Integration with 3rd party payment processors.",
+            "Linux systems administration and Database administration."
+          ]
+        },
+        "highlights": []
+      }
+    ]
+  },
+  "education": {
+    "summary": "",
+    "level": "",
+    "degree": "",
+    "history": [
+      {
+        "institution": "Couchbase, Inc.",
+        "url": "https://dl.dropboxusercontent.com/u/7108604/certificates/rudijs_CB020%20Fundamentals%20of%20NoSQL%20Data%20Management_Certificate.png",
+        "start": "2015-10-01",
+        "end": "present",
+        "grade": "A",
+        "summary": "CB020 Fundamentals of NoSQL Data Management",
+        "curriculum": []
+      },
+      {
+        "institution": "Couchbase, Inc.",
+        "url": "https://dl.dropboxusercontent.com/u/7108604/certificates/Rudi%20Starcevic_CB030%20Essentials%20of%20Couchbase%20NoSQL%20Technology_Certificate.png",
+        "start": "2015-10-01",
+        "end": "present",
+        "grade": "A",
+        "summary": "CB030 Essentials of Couchbase NoSQL Technology",
+        "curriculum": []
+      },
+      {
+        "institution": "MongoDB, Inc.",
+        "url": "https://university.mongodb.com/courses/M101JS/about",
+        "start": "2013-10-01",
+        "end": "present",
+        "grade": "A",
+        "summary": "M101JS: MongoDB for Node.js Developers",
+        "curriculum": []
+      },
+      {
+        "institution": "MongoDB, Inc.",
+        "url": "https://university.mongodb.com/courses/M102/about",
+        "start": "2014-04-01",
+        "end": "present",
+        "grade": "A",
+        "summary": "M102: MongoDB for DBAs",
+        "curriculum": []
+      },
+      {
+        "institution": "MongoDB, Inc.",
+        "url": "https://university.mongodb.com/courses/M202/about",
+        "start": "2014-10-01",
+        "end": "present",
+        "grade": "A",
+        "summary": "M202: MongoDB Advanced Deployment and Operations",
+        "curriculum": []
+      },
+      {
+        "institution": "Brisbane Institute of TAFE",
+        "url": "https://www.dropbox.com/s/8gko9zca8hthuct/diploma-of-horticulture.jpg?dl=0",
+        "start": "1996-02-01",
+        "end": "1998-02-01",
+        "grade": "A",
+        "summary": "Diploma of Applied Science - Horticulture",
+        "curriculum": []
+      },
+      {
+        "institution": "Permaculture Institute",
+        "url": "https://www.dropbox.com/s/l5j6864bbwazks4/permaculture-design-consultant.jpg?dl=0",
+        "start": "1997-12-01",
+        "end": "present",
+        "grade": "A",
+        "summary": "Permaculture Design Consultant",
+        "curriculum": []
+      },
+      {
+        "institution": "The Open and Distance Learning Quality Council",
+        "url": "https://www.dropbox.com/s/kcsgy8pq4h5d3ba/Online_TEFL_Certificate.pdf?dl=0",
+        "start": "2012-10-01",
+        "end": "present",
+        "grade": "A",
+        "summary": "Teaching English as a Foreign Language",
+        "curriculum": []
+      },
+      {
+        "institution": "The Open and Distance Learning Quality Council",
+        "url": "https://www.dropbox.com/s/bxuzirrjsy6avr5/Online_Teaching_Business_English_Certificate.pdf?dl=0",
+        "start": "2012-10-01",
+        "end": "present",
+        "grade": "A",
+        "summary": "Teaching English as a Foreign Language: Business English",
+        "curriculum": []
+      },
+      {
+        "institution": "The Open and Distance Learning Quality Council",
+        "url": "https://www.dropbox.com/s/z14765cgduh42k5/Online_Grammar_Certificate.pdf?dl=0",
+        "start": "2012-11-01",
+        "end": "present",
+        "grade": "A",
+        "summary": "Teaching English as a Foreign Language: Grammar Awareness",
+        "curriculum": []
+      },
+      {
+        "institution": "Plural Sight",
+        "url": "https://www.pluralsight.com/",
+        "start": "",
+        "end": "",
+        "grade": "A",
+        "summary": "Plural Sight Courses",
+        "curriculum": [
+          {
+            "name": "Yeoman Fundamentals",
+            "url": "http://app.pluralsight.com/courses/yeoman-fundamentals"
+          },
+          {
+            "name": "Administering an Elasticsearch Cluster",
+            "url": "http://app.pluralsight.com/courses/administering-elasticsearch-cluster"
+          },
+          {
+            "name": "AWS VPC Operations",
+            "url": "http://app.pluralsight.com/courses/aws-vpc-operations"
+          },
+          {
+            "name": "An AngularJS Playbook",
+            "url": "http://app.pluralsight.com/courses/angularjs-playbook"
+          },
+          {
+            "name": "Angular Directives Fundamentals",
+            "url": "http://app.pluralsight.com/courses/angularjs-directive-fundamentals"
+          },
+          {
+            "name": "Webpack Fundamentals",
+            "url": "http://app.pluralsight.com/courses/webpack-fundamentals"
+          },
+          {
+            "name": "Fundamentals of Typography",
+            "url": "http://app.pluralsight.com/courses/fundamentals-typography-277"
+          },
+          {
+            "name": "Visual Studio Code",
+            "url": "http://app.pluralsight.com/courses/visual-studio-code"
+          },
+          {
+            "name": "Introduction to Wireshark",
+            "url": "http://app.pluralsight.com/courses/wireshark-introduction"
+          },
+          {
+            "name": "Concurrent Programming with Go",
+            "url": "http://app.pluralsight.com/courses/go-concurrent-programming"
+          },
+          {
+            "name": "Building Realtime Angular Controls",
+            "url": "http://app.pluralsight.com/courses/building-realtime-angular-controls"
+          },
+          {
+            "name": "Web Security and the OWASP Top 10: The Big Picture",
+            "url": "http://app.pluralsight.com/courses/web-security-owasp-top10-big-picture"
+          },
+          {
+            "name": "Date and Time Fundamentals",
+            "url": "https://app.pluralsight.com/library/courses/date-time-fundamentals"
+          },
+          {
+            "name": "Math for Programmers",
+            "url": "https://app.pluralsight.com/library/courses/math-for-programmers/table-of-contents"
+          }
+        ]
+      },
+      {
+        "institution": "Egg Head",
+        "url": "https://egghead.io",
+        "start": "",
+        "end": "",
+        "grade": "A",
+        "summary": "Egg Head Courses",
+        "curriculum": [
+          {
+            "name": "Angular and Webpack for Modular Applications",
+            "url": "https://egghead.io/series/angular-and-webpack-for-modular-applications"
+          },
+          {
+            "name": "AngularJS Authentication with JWT",
+            "url": "https://egghead.io/series/angularjs-authentication-with-jwt"
+          }
+        ]
+      },
+      {
+        "institution": "Code School",
+        "url": "https://www.codeschool.com/users/127856",
+        "start": "2013-01-01",
+        "end": "present",
+        "grade": "A",
+        "summary": "Code School Courses",
+        "curriculum": [
+          {
+            "name": "Git Real",
+            "url": "https://www.codeschool.com/courses/git-real"
+          },
+          {
+            "name": "Rails Best Practices",
+            "url": "https://www.codeschool.com/courses/rails-best-practices"
+          },
+          {
+            "name": "CSS Cross-Country",
+            "url": "https://www.codeschool.com/courses/css-cross-country"
+          },
+          {
+            "name": "Functional HTML5",
+            "url": "https://www.codeschool.com/courses/functional-html5-css3"
+          },
+          {
+            "name": "Rails Testing for Zombies",
+            "url": "https://www.codeschool.com/courses/rails-testing-for-zombies"
+          },
+          {
+            "name": "Anatomy of Backbone.js",
+            "url": "https://www.codeschool.com/courses/anatomy-of-backbone-js"
+          },
+          {
+            "name": "CoffeeScript",
+            "url": "https://www.codeschool.com/courses/coffeescript"
+          },
+          {
+            "name": "Real-time Web with Node.js",
+            "url": "https://www.codeschool.com/courses/real-time-web-with-node-js"
+          },
+          {
+            "name": "Testing with RSpec",
+            "url": "https://www.codeschool.com/courses/testing-with-rspec"
+          },
+          {
+            "name": "Ruby Bits",
+            "url": "https://www.codeschool.com/courses/ruby-bits"
+          },
+          {
+            "name": "Assembling Sass",
+            "url": "https://www.codeschool.com/courses/assembling-sass"
+          },
+          {
+            "name": "Ruby Bits Part 2",
+            "url": "https://www.codeschool.com/courses/ruby-bits-part-2"
+          },
+          {
+            "name": "Discover DevTools",
+            "url": "https://www.codeschool.com/courses/discover-devtools"
+          },
+          {
+            "name": "Shaping up with Angular.js",
+            "url": "https://www.codeschool.com/courses/shaping-up-with-angular-js"
+          },
+          {
+            "name": "Try R",
+            "url": "https://www.codeschool.com/courses/try-r"
+          },
+          {
+            "name": "Try Git",
+            "url": "https://www.codeschool.com/courses/try-git"
+          }
+        ]
+      }
+    ]
+  },
+  "service": {
+    "summary": "",
+    "history": [
+      {
+        "flavor": "",
+        "position": "",
+        "organization": "",
+        "url": "",
+        "start": "",
+        "end": "",
+        "summary": "",
+        "highlights": []
+      }
+    ]
+  },
+  "skills": {
+    "sets": [
+      {
+        "name": "Web Development",
+        "level": "Advanced",
+        "skills": [
+          "HTML",
+          "CSS",
+          "Javascript"
+        ]
+      }
+    ],
+    "list": []
+  },
+  "samples": [
+    {
+      "title": "",
+      "summary": "",
+      "url": "",
+      "date": ""
+    }
+  ],
+  "writing": [
+    {
+      "title": "Elasticsearch v2 Geolocation search made easy with Docker",
+      "flavor": "Technical Tutorial",
+      "date": "2015-10-10",
+      "publisher": {
+        "name": "Linked In Pulse",
+        "url": "https://www.linkedin.com/pulse"
+      },
+      "url": "https://www.linkedin.com/pulse/elasticsearch-v2-geolocation-search-made-easy-docker-rudi-starcevic?trkSplashRedir=true&forceNoSplash=true"
+    },
+    {
+      "title": "ELK Docker Setup",
+      "flavor": "Technical Tutorial",
+      "date": "2015-10-10",
+      "publisher": {
+        "name": "Elasticsearch",
+        "url": "https://www.elastic.co/"
+      },
+      "url": "https://github.com/elastic/examples/tree/master/ELK_docker_setup"
+    }
+  ],
+  "reading": [
+    {
+      "title": "",
+      "flavor": "",
+      "url": "",
+      "author": ""
+    }
+  ],
+  "recognition": [
+    {
+      "flavor": "",
+      "from": "",
+      "title": "",
+      "event": "",
+      "date": "",
+      "summary": ""
+    }
+  ],
+  "references": [
+    {
+      "name": "",
+      "flavor": "",
+      "private": true,
+      "contact": [
+        {
+          "label": "",
+          "flavor": "",
+          "value": ""
+        }
+      ]
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "",
+      "flavor": "",
+      "quote": ""
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "level": "Expert",
+      "years": 0
+    }
+  ],
+  "interests": [
+    {
+      "name": "",
+      "summary": "",
+      "keywords": []
+    }
+  ]
+}
