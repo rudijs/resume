@@ -167,7 +167,7 @@
             "Sales data mining and reports production."
           ],
           "result": [
-            "Continued smooth operation and sales for the web application stakeholders.",
+            "Continued smooth operation, online sales and rebilling for the web application stakeholders.",
             "Improved documentation.",
             "Implemented a browser testing suite with WebDriver and Selenium."
           ]
@@ -180,22 +180,33 @@
         "url": "http://sscgroupllc.com",
         "position": "Web Developer, Web Operations",
         "summary": [
-          "SUMMARY TODO"
+          "SSC Groupt LLC is an internet entertainment and publishing company specializing in online entertainment services, publishing, branding, and traffic generation."
         ],
         "start": "2012-12-01",
         "end": "2013-08-01",
         "keywords": [
-          "AngularJS",
-          "Node.js"
+          "Ruby on Rails",
+          "PHP",
+          "Node.js",
+          "MySql",
+          "Postgresql",
+          "MongoDB"
         ],
         "par": {
           "problem": [
-            "Web Development with PHP, Node.js, Ruby on Rails, Javascript, HTML and CSS.",
-            "Database development with Mysql, PostgreSQL and MongoDB.",
-            "REST API development, Templating systems development, bug fixes.",
-            "Pre-existing affiliate program maintenance.",
-            "Integration with 3rd party payment processors.",
+            "Join and contribute to an existing Web Development team of Rails developers, PHP developers and HTML/CSS designers.",
+            "Develop and maintain a suite of streaming video and traffic generation web and mobile sites.",
+            "Maintenance of a pre-existing PHP based affiliate program and integration with third party payment processors."
+          ],
+          "action": [
+            "Implemented code fixes, updates and addtions to existing PHP, Node.js, Ruby on Rails, Javascript, HTML code.",
+            "Integrated application code with Mysql, PostgreSQL and MongoDB databases.",
+            "Developed a PHP REST API, PHP Smarty templating updates and bug fixes.",
             "Linux systems admin, Virtual Machine setup/admin/integration."
+          ],
+          "result": [
+            "Continued smooth operation and online sales for the web application stakeholders.",
+            "Improved documentation."
           ]
         },
         "highlights": []
@@ -217,6 +228,12 @@
         "par": {
           "problem": [
             "Call center IT operations including network security, VOIP inbound and outbound ViciDial systems."
+          ],
+          "action": [
+            "TODO"
+          ],
+          "result": [
+            "TODO"
           ]
         },
         "highlights": []
@@ -242,6 +259,12 @@
             "Advanced networking with Linux firewall and routing.",
             "Advanced VOIP setup, configuration and admin.",
             "Microsoft windows client workstation cluster setup and admin."
+          ],
+          "action": [
+            "TODO"
+          ],
+          "result": [
+            "TODO"
           ]
         },
         "highlights": []
@@ -271,6 +294,12 @@
             "Front end build systems and deployment process development",
             "Linux systems admin, Virtual Machine setup/admin/integration.",
             "Distributed development team with DVCS (git)."
+          ],
+          "action": [
+            "TODO"
+          ],
+          "result": [
+            "TODO"
           ]
         },
         "highlights": []
@@ -298,6 +327,12 @@
             "Content management systems for affiliates.",
             "Integration with 3rd party payment processors.",
             "Linux systems administration and Database administration."
+          ],
+          "action": [
+            "TODO"
+          ],
+          "result": [
+            "TODO"
           ]
         },
         "highlights": []
@@ -324,6 +359,12 @@
             "Content management systems, domain name registration web app.",
             "Integration with 3rd party payment processors.",
             "Linux systems administration and Database administration."
+          ],
+          "action": [
+            "TODO"
+          ],
+          "result": [
+            "TODO"
           ]
         },
         "highlights": []

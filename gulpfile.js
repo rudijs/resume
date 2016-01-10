@@ -6,6 +6,7 @@ var execSync = require('child_process').execSync;
 gulp.task('watch', () => {
   return gulp.watch([
     'resume.html',
+    'resume.tpl.html',
     'resume.json'
   ], ['build']);
 });

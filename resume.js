@@ -4,8 +4,16 @@ var fs = require('fs'),
   hogan = require("hogan.js"),
   moment = require('moment');
 
-var data = JSON.parse(fs.readFileSync('./resume.json').toString());
-// console.log('resume', data);
+var data;
+
+try {
+  data = JSON.parse(fs.readFileSync('./resume.json').toString());
+  // console.log('resume', data);
+}
+catch (e) {
+  throw new Error('Unable to parse JSON data: ' + e.message);
+}
+
 
 
 data.employmentPeriod = function () {
@@ -59,7 +67,7 @@ data.employmentPeriodHumanize = function () {
       }
 
       period.push(months);
-      
+
       if (months > 1) {
         period.push('months');
       }
