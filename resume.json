@@ -90,8 +90,7 @@
         "url": "http://klixplus.com",
         "position": "Devops Engineer, Web Developer, Web Operations",
         "summary": [
-          "Devops and web app programing project to move a multi machine application from the US to EU.",
-          "Move a web app cluster of http servers, proxies and databases, high traffic streaming media web application running on bare metal to a multiple staged environment mix of Virtual machines and bare metal servers."
+          "KlixPlus specializes in high-end website design, digital media, corporate branding and creative marketing."
         ],
         "start": "2014-12-01",
         "end": "2015-04-01",
@@ -110,6 +109,9 @@
         ],
         "par": {
           "problem": [
+            "Devops and web app programing project to move a multi machine application from the US to EU.",
+            "Move a web app cluster of http servers, proxies and databases, high traffic streaming media web application running on bare metal to a multiple staged environment mix of Virtual machines and bare metal servers.",
+            "TODO",
             "Plan out a build and deploy system centered around detailed documentation and repeatable build processes.",
             "Devised and implement a configuration management system.",
             "Create a Local Developer Virtual Machine setup for programmers and design team.",
@@ -217,23 +219,27 @@
         "url": "http://kineticbusinesssolutions.com",
         "position": "IT Operations",
         "summary": [
-          "SUMMARY TODO"
+          "Kinetic Business Solutions provides full service offshore call center services for companies in all trades of business.",
+          "Fluent English speaking agents provide success with either inbound customer service or outbound telemarketing."
         ],
         "start": "2012-04-01",
-        "end": "2012-08-01",
+        "end": "2012-07-01",
         "keywords": [
           "AngularJS",
           "Node.js"
         ],
         "par": {
           "problem": [
-            "Call center IT operations including network security, VOIP inbound and outbound ViciDial systems."
+            "Consulting service to review and advise a BPO Call Center."
           ],
           "action": [
-            "TODO"
+            "Network security, VOIP inbound and outbound ViciDial systems.",
+            "VOIP inbound and outbound ViciDial systems.",
+            "Assist with implementation of additional VOIP service provider."
           ],
           "result": [
-            "TODO"
+            "Lowered overall cost of VOIP operations.",
+            "Added VOIP redundancy."
           ]
         },
         "highlights": []
@@ -254,17 +260,19 @@
         ],
         "par": {
           "problem": [
-            "Founding Partner of BPO outsourcing company.",
-            "Call center IT operations including network security, VOIP inbound and outbound ViciDial systems.",
-            "Advanced networking with Linux firewall and routing.",
-            "Advanced VOIP setup, configuration and admin.",
-            "Microsoft windows client workstation cluster setup and admin."
+            "Founding Partner and CTO of BPO outsourcing company."
           ],
           "action": [
-            "TODO"
+            "Call center IT operations including network security, VOIP inbound and outbound ViciDial systems.",
+            "Implement a Thin Client Solution (Diskless Workstations) for Linux Ubuntu operating systems (12 workstatsion with LTSP).",
+            "Microsoft windows client workstation cluster setup and administration (12 workstations).",
+            "Install, confgiure and maintain Linux Suse ViciDial server",
+            "Advanced networking with Linux firewall and routing.",
+            "Advanced VOIP setup, configuration and admin."
           ],
           "result": [
-            "TODO"
+            "TODO",
+            "Improved Total Cost of Ownership (TCO)."
           ]
         },
         "highlights": []
@@ -275,28 +283,34 @@
         "url": "https://www.linkedin.com/company/hyper-focus-media",
         "position": "Senior Web Developer, Web Operations and Systems Admin",
         "summary": [
-          "SUMMARY TODO"
+          "HFM is an Internet content media production company, streaming video, SEO and affiliate review site network.",
+          "HFM was established after the aquisition of my previous employment at IMP, I joined with the founders."
         ],
         "start": "2010-10-01",
         "end": "2012-06-01",
         "keywords": [
-          "AngularJS",
-          "Node.js"
+          "Python",
+          "Django",
+          "PHP",
+          "PostgreSql",
+          "Javascript",
+          "HTML",
+          "CSS"
         ],
         "par": {
           "problem": [
-            "Senior Web Developer and Systems Administrator.",
             "Development with PHP, Python, Django, Javascript, HTML and CSS.",
-            "Database development with PostgreSQL including HA primary/secondary.",
+            "Database development with PostgreSQL including HA primary/secondary."
+          ],
+          "action": [
             "Templating systems development, bug fixes.",
             "CDN integration for video content and image media.",
             "Advanced Varnish cache system implementation and configuration.",
             "Front end build systems and deployment process development",
             "Linux systems admin, Virtual Machine setup/admin/integration.",
-            "Distributed development team with DVCS (git)."
-          ],
-          "action": [
-            "TODO"
+            "Distributed Version Control System using Git.",
+            "Web app project management with RedMine (installation, admin and use).",
+            "PostgreSQL database administration - highly available replicating primary/secondary."
           ],
           "result": [
             "TODO"
@@ -310,7 +324,10 @@
         "url": "https://www.linkedin.com/company/internet-media-productions-ltd",
         "position": "Senior Web Developer, Web Operations and Systems Admin",
         "summary": [
-          "SUMMARY TODO"
+          "SUMMARY TODO",
+          "Internet content media production company",
+          "review site",
+          "streaming video media"
         ],
         "start": "2004-02-01",
         "end": "2010-07-01",
@@ -320,7 +337,12 @@
         ],
         "par": {
           "problem": [
-            "Senior Web Developer and Systems Administrator.",
+            "Join a rapidly growing team of Web Developers, Designers and Encoders.",
+            "Required Front-end and Back-end development of a multimedia CMS web app system.",
+            "Required administration of a content affliation web application.",
+            "Required Linux and FreeBSD devops and systems administration."
+          ],
+          "action": [
             "Development with PHP, Javascript, HTML and CSS.",
             "Database development with Mysql and PostgreSQL including HA primary/secondary.",
             "Affiliate program development, Template systems development.",
@@ -328,11 +350,10 @@
             "Integration with 3rd party payment processors.",
             "Linux systems administration and Database administration."
           ],
-          "action": [
-            "TODO"
-          ],
           "result": [
-            "TODO"
+            "Succsessful rapid growth, operation and sales for the company stakeholders.",
+            "Over the course of several years we built, profited and sold several web applications",
+            "Ultimately the company was aquired and I moved with the founders to my next job."
           ]
         },
         "highlights": []
@@ -343,6 +364,7 @@
         "url": "http://www.firstalliance.com.au",
         "position": "Senior Web Developer, Web Operations and Systems Admin",
         "summary": [
+          "First Alliance is a boutique brokerage house licensed in Australia since 1999.",
           "SUMMARY TODO"
         ],
         "start": "2001-03-01",
