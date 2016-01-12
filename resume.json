@@ -283,7 +283,7 @@
         "url": "https://www.linkedin.com/company/hyper-focus-media",
         "position": "Senior Web Developer, Web Operations and Systems Admin",
         "summary": [
-          "HFM is an Internet content media production company, streaming video, SEO and affiliate review site network.",
+          "Hyper Focus Media (HFM) is an Internet content media production company, streaming video, SEO and affiliate review site network.",
           "HFM was established after the aquisition of my previous employment at IMP, I joined with the founders."
         ],
         "start": "2010-10-01",
@@ -299,21 +299,26 @@
         ],
         "par": {
           "problem": [
-            "Development with PHP, Python, Django, Javascript, HTML and CSS.",
-            "Database development with PostgreSQL including HA primary/secondary."
+            "HFM required a Front-end and Back-end developer with Devops and Unix Systems admin skills.",
+            "The company has a small suite of existing web and mobile apps including high traffic review site, with CMS backend, and a free streaming media sites."
           ],
           "action": [
-            "Templating systems development, bug fixes.",
-            "CDN integration for video content and image media.",
-            "Advanced Varnish cache system implementation and configuration.",
-            "Front end build systems and deployment process development",
-            "Linux systems admin, Virtual Machine setup/admin/integration.",
-            "Distributed Version Control System using Git.",
+            "Oversaw and participated primarily in PHP and Python back-end and Javascript front-end web development.",
+            "Re-implemented improved front-end build systems and deployment processes.",
             "Web app project management with RedMine (installation, admin and use).",
+            "Developed CDN integration for video content and image media.",
+            "Smarty PHP templating systems development, maintenance and bug fixes.",
+            "Linux systems admin, Virtual Machine setup/admin/integration.",
+            "Highly available HTTP service using Nginx, Apache and Varnish cache.",
+            "Distributed Version Control System using Git.",
             "PostgreSQL database administration - highly available replicating primary/secondary."
           ],
           "result": [
-            "TODO"
+            "Day to day running, development and maintenance of the web and mobile sites remained smooth and profitable.",
+            "Total cost of ownership remained low, as almost all software used is open source",
+            "Hosting costs were reduced with the implementation of caching systems (primarily Varnish cache).",
+            "Local developer productivity greating improved with the implmentation of development virtual machines.",
+            "Design team work flow and productivity improved with implementation of improved build and deployment processes."
           ]
         },
         "highlights": []
@@ -324,16 +329,20 @@
         "url": "https://www.linkedin.com/company/internet-media-productions-ltd",
         "position": "Senior Web Developer, Web Operations and Systems Admin",
         "summary": [
-          "SUMMARY TODO",
-          "Internet content media production company",
-          "review site",
-          "streaming video media"
+          "Internet Media Productions (IMP) is a content media production company, web and mobile streaming video media provider plus network review site."
         ],
         "start": "2004-02-01",
         "end": "2010-07-01",
         "keywords": [
-          "AngularJS",
-          "Node.js"
+          "PHP",
+          "Mysql",
+          "PostgreSql",
+          "Javascript",
+          "HTML",
+          "CSS",
+          "Devops",
+          "Systems Administration",
+          "Web Operations"
         ],
         "par": {
           "problem": [
@@ -343,8 +352,8 @@
             "Required Linux and FreeBSD devops and systems administration."
           ],
           "action": [
-            "Development with PHP, Javascript, HTML and CSS.",
-            "Database development with Mysql and PostgreSQL including HA primary/secondary.",
+            "Oversaw and participated in Web Development with PHP, Javascript, HTML and CSS.",
+            "Database development and administration of Mysql and PostgreSQL including HA primary/secondary.",
             "Affiliate program development, Template systems development.",
             "Content management systems for affiliates.",
             "Integration with 3rd party payment processors.",
@@ -365,16 +374,26 @@
         "position": "Senior Web Developer, Web Operations and Systems Admin",
         "summary": [
           "First Alliance is a boutique brokerage house licensed in Australia since 1999.",
-          "SUMMARY TODO"
+          "The brokerage stakeholders also pursued some start web sites ranging from ecommerce, immigration, fun quizzes and social media."
         ],
         "start": "2001-03-01",
         "end": "2003-11-01",
         "keywords": [
-          "AngularJS",
-          "Node.js"
+          "Coldfusion",
+          "PHP",
+          "PostgreSql",
+          "Javascript",
+          "HTML",
+          "CSS",
+          "Devops",
+          "Systems Administration",
+          "Web Operations"
         ],
         "par": {
           "problem": [
+            "First Alliance required a Front-end and Back-end developer with Devops and Unix Systems admin skills."
+          ],
+          "action": [
             "Senior Web Developer and Systems Administrator.",
             "Development with Coldfusion, PHP, Javascript, HTML and CSS.",
             "Database development with PostgreSQL.",
@@ -382,11 +401,9 @@
             "Integration with 3rd party payment processors.",
             "Linux systems administration and Database administration."
           ],
-          "action": [
-            "TODO"
-          ],
           "result": [
-            "TODO"
+            "Several web sites build and launched successfully for the stakeholders and external clients.",
+            "Initially developed on bare metal hosted onsite then migrated to cloud providers which lowered total cost of ownership"
           ]
         },
         "highlights": []
