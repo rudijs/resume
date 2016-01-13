@@ -19,7 +19,10 @@ module.exports = {
       "port": 8080
     }
   },
-  "files": "resume.html",
+  "files": [
+    "index.html",
+    "assets/css/styles.css"
+  ],
   "watchOptions": {},
   "server": {
     "baseDir": ""

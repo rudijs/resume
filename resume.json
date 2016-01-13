@@ -431,6 +431,75 @@
       }
     ]
   },
+  "openSource": {
+    "projects": [
+      {
+        "name": "Koa JSON Logger",
+        "description": "Logging middleware for Koa HTTP server.",
+        "url": "https://github.com/rudijs/koa-json-logger"
+      },
+      {
+        "name": "AMQP Node RPC Factory",
+        "description": "Node.js AMQP RPC Consumer and Publisher Factory.",
+        "url": "https://github.com/rudijs/amqp.node-rpc-factory"
+      },
+      {
+        "name": "Koa JSON-API Headers",
+        "description": "Validate JSON-API Request Headers middleware for Koa HTTP Server.",
+        "url": "https://github.com/rudijs/koa-jsonapi-headers"
+      },
+      {
+        "name": "Oauth2 Facebook",
+        "description": "Node.js oauth2 Facebook sign in module.",
+        "url": "https://github.com/rudijs/oauth2-facebook"
+      },
+      {
+        "name": "Oauth2 Google",
+        "description": "Node.js oauth2 Google sign in module.",
+        "url": "https://github.com/rudijs/oauth2-google"
+      },
+      {
+        "name": "Oauth2 LinkedIn",
+        "description": "Node.js oauth2 LinkedInk sign in module.",
+        "url": "https://github.com/rudijs/oauth2-linkedin"
+      },
+      {
+        "name": "Generator NgPack",
+        "description": "Yeoman Generator for AngularJS with Material Design and Webpack.",
+        "url": "https://github.com/rudijs/generator-ngpack"
+      },
+      {
+        "name": "Require Walk",
+        "description": "Node.js recursively require common js modules.",
+        "url": "https://github.com/rudijs/require-walk"
+      },
+      {
+        "name": "Jenkins Build Essential",
+        "description": "Docker Jenkins CI Image with Build Essential added.",
+        "url": "https://github.com/rudijs/jenkins-build-essential"
+      },
+      {
+        "name": "Ride Share Market App",
+        "description": "Ride Share Market AngularJS App.",
+        "url": "https://github.com/rudijs/ride-share-market-app"
+      },
+      {
+        "name": "Ride Share Market Data",
+        "description": "Node.js RabbitMQ MongoDB data layer.",
+        "url": "https://github.com/rudijs/ride-share-market-data"
+      },
+      {
+        "name": "Ride Share Market DevOps",
+        "description": "Ride Share Market Chef Configuration Management.",
+        "url": "https://github.com/rudijs/ride-share-market-devops"
+      },
+      {
+        "name": "MEANR Full Stack",
+        "description": "MEANR (MongoDB, Express, AngularJS, Node.js, Redis) stack with Chef for DevOps and Capistrano for Deployment.",
+        "url": "https://github.com/rudijs/meanr-full-stack"
+      }
+    ]
+  },
   "education": {
     "summary": "",
     "level": "",
