@@ -812,6 +812,16 @@
         "url": "https://www.elastic.co/"
       },
       "url": "https://github.com/elastic/examples/tree/master/ELK_docker_setup"
+    },
+    {
+      "title": "Personal Blog - Web Development, Web Operations, Devops",
+      "flavor": "Technical Tutorials",
+      "date": "2015-10-10",
+      "publisher": {
+        "name": "rudijs",
+        "url": "https://rudijs.github.io/archive.html"
+      },
+      "url": "https://rudijs.github.io/archive.html"
     }
   ],
   "reading": [
