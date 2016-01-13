@@ -22,3 +22,11 @@ Index.html file builds are done automatically on change with the above gulp task
 - `node ./resume.js >! index.html`
 - Gulp Task
 - `gulp build`
+
+## Deploy
+
+- Git commit the master branch.
+- Git checkout the gh-pages branch, merge from master, and push.
+- `gco gh-pages`
+- `gm master`
+- `git push`
