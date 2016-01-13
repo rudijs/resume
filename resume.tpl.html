@@ -39,7 +39,9 @@
           <div class="col-md-6"><img src="{{info.image}}" alt="{{name}}" class="img-rounded" /></div>
         </div>
         <h3>About</h3>
-        <p>{{info.brief}}</p>
+        {{#info.brief}}
+        <p>{{.}}</p>
+        {{/info.brief}}
       </div>
 
 

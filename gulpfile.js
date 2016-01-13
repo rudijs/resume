@@ -5,19 +5,19 @@ var execSync = require('child_process').execSync;
 
 gulp.task('watch', () => {
   return gulp.watch([
-    'resume.html',
+    'index.html',
     'resume.tpl.html',
     'resume.json'
   ], ['build']);
 });
 
 gulp.task('build', () => {
-  console.log('building resume.html...');
+  console.log('building index.html...');
   var cmd = [
     'node',
     './resume.js',
     '>',
-    './resume.html'
+    './index.html'
   ];
 
   return execSync(cmd.join(' '), { stdio: [0, 1, 2] });
