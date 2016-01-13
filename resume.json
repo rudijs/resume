@@ -50,36 +50,48 @@
         "url": "https://ridesharemarket.com",
         "position": "Web Developer, DevOps, Web Operations",
         "summary": [
-          "SUMMARY TODO"
+          "Ride Share Market is free to use ride sharing web and mobile site.",
+          "Currently in the MVP stage (minimum viable product)",
+          "Development is on going."
         ],
         "start": "2014-11-01",
         "end": "present",
         "keywords": [
           "AngularJS",
-          "Node.js"
+          "Node.js",
+          "Chef",
+          "VirtualBox",
+          "MongoDB",
+          "Couchbase",
+          "NGINX",
+          "HTML",
+          "CSS",
+          "Javascript",
+          "Bash"
         ],
         "par": {
           "problem": [
             "Greenfield single page web application project.",
             "Plan out, develop and deploy an open source free to use ridesharing app.",
-            "Emphasis on solid documentation and repeatable build proccesses with CI and CD."
+            "Required emphasis on solid documentation and a repeatable build proccess with Continuous Integration and Delivery (CI and CD)."
           ],
           "action": [
-            "Devised a microservice architecture centered on Docker (multiple environments from development to production).",
-            "Develop backend HTTP RESTful Web API with NodeJS, MongoDB and Couchbase.",
-            "SPA frontend programing AngularJS and Material Design (Javascript, HTML, CSS).",
-            "Frontend Javascript build system with GulpJS, CI with travis and Jenkins.",
-            "Implement VPC environments with Amazon Web Services.",
+            "Devised a micro service architecture centered on Docker (multiple environments from development to production).",
+            "Developed backend HTTP RESTful Web API with NodeJS, MongoDB and Couchbase.",
+            "Single Page App (SPA) front-end programing AngularJS and Material Design.",
+            "Front-end Javascript build system with GulpJS, CI with TravisCI and Jenkins.",
+            "Implement Virtual Private Cloud (VPC) environments with Amazon Web Services.",
             "Developed configuration management systems with Chef Solo and Chef Server.",
             "Implement web operations monitoring systems (Prometheus, ELK).",
-            "Implement frontend instrumentation with Google Analytics.",
-            "Setup client support systems."
+            "Implement front-end instrumentation with Google Analytics.",
+            "Setup client support systems.",
+            "Implemented agile story-based project planning with Pivotal Tracker."
           ],
           "result": [
             "An MVP for the application specs produced and deployed on time and within budget.",
-            "Leveraged open source projects all the way from system OS, config management, backend and frontend to keep operations expenses to an absolute minimum.",
+            "Leveraged open source projects all the way from system OS, config management, back-end and front-end to keep operations expenses to an absolute minimum.",
             "Open source contributions produced from the project for Oauth, application logging and AMQP RPC messaging.",
-            "Communtiy help blog posts for Docker security and Elasticsearch evolved from the project."
+            "Community help blog posts for Docker security and Elasticsearch evolved from the project."
           ]
         },
         "highlights": []
@@ -109,21 +121,23 @@
         ],
         "par": {
           "problem": [
-            "Devops and web app programing project to move a multi machine application from the US to EU.",
-            "Move a web app cluster of http servers, proxies and databases, high traffic streaming media web application running on bare metal to a multiple staged environment mix of Virtual machines and bare metal servers.",
-            "TODO",
-            "Plan out a build and deploy system centered around detailed documentation and repeatable build processes.",
-            "Devised and implement a configuration management system.",
-            "Create a Local Developer Virtual Machine setup for programmers and design team.",
-            "Create a repeatable build staging environment on Virtual machines at digitalocean.com.",
-            "Configuration management for all environments including bare metal hardware."
+            "Migrate a cluster of http servers, proxies and databases from the US to EU.",
+            "This cluster must move from running on bare metal to a multiple staged environment mix of Virtual machines and new bare metal servers.",
+            "Zero downtime is required."
           ],
           "action": [
+            "Planned out a Build and Deploy system centered on detailed documentation and repeatable build processes.",
+            "Devised and implement a configuration management system.",
+            "Created a Local Developer Virtual Machine setup for programmers and design team.",
+            "Created a repeatable build Staging environment on Virtual machines at digitalocean.com.",
+            "Configuration management for all environments including bare metal hardware.",
             "Web Development with PHP, Python, Javascript, HTML, CSS, PHP, PosgtreSQL and Couchbase.",
             "Devops/Configuration management with Vagrant/Virtualbox, Chef Solo and Chef Server.",
-            "High availability systems with Varnish Cache, Nginx and clusters of Pgsql and Couchbase.",
-            "Advanced network security process with Iptables, SSH tunneling and port knocking.",
-            "Web operations with Logstash, Elasticsearch, Graphite/StatsD, Consul."
+            "Migrated highly available caching systems with Varnish Cache and Couchbase 3.0.",
+            "Migrated highly available replicating Database systems using PostgreSql.",
+            "Implemented advanced network security process with Iptables, SSH tunneling and port knocking.",
+            "Deployed a new unified logging solution with Elasticsearch, Logstash and Kibana (ELK).",
+            "Deployed a new systems monitoring solution with Graphite/StatsD and Consul."
           ],
           "result": [
             "Reduced operational expenses by moving the web cluster to more affordable and higher quality hosting hardware.",
@@ -131,7 +145,7 @@
             "Successfully transitioned a single stage web app cluster into a multi staged developer workflow.",
             "Implemented repeatable build systems with Open source technology.",
             "Clearly detailed and documented deployment and backup systems so the stakeholders have a better grip of day to day activity.",
-            "Reduced technical debt - the application owners now no longer have a black box and have confidence they can quickly recover from data or systems breakdown."
+            "Reduced technical debt - the application stakeholders no longer have a black box and have confidence they can quickly recover from data or systems breakdown."
           ]
         },
         "highlights": []
@@ -162,9 +176,9 @@
           "action": [
             "Orientated myself on how the systems integrate (various scheduled tasks for billing, web hooks, report generation).",
             "Implement price point updates, template system updates that integrate with a custom USPS product delivery service.",
-            "Fix intermitent 3rd party payment processors bugs and issues.",
-            "Fix various intermitent custom USPS shipping issues.",
-            "General Linux systems administration such as system updates and backups.",
+            "Fix intermittent 3rd party payment processors bugs and issues.",
+            "Fix various intermittent custom USPS shipping issues.",
+            "General Linux systems administration, such as system updates and backups.",
             "Implement a unified logging system with loggly.com",
             "Sales data mining and reports production."
           ],
@@ -180,7 +194,7 @@
         "employer": "SSC Group LLC",
         "location": "California, United States (remote)",
         "url": "http://sscgroupllc.com",
-        "position": "Web Developer, Web Operations",
+        "position": "Web Developer, Web Operations, Systems Admin",
         "summary": [
           "SSC Groupt LLC is an internet entertainment and publishing company specializing in online entertainment services, publishing, branding, and traffic generation."
         ],
@@ -201,13 +215,14 @@
             "Maintenance of a pre-existing PHP based affiliate program and integration with third party payment processors."
           ],
           "action": [
-            "Implemented code fixes, updates and addtions to existing PHP, Node.js, Ruby on Rails, Javascript, HTML code.",
+            "Implemented code fixes, updates and additions to existing PHP, Node.js, Ruby on Rails, Javascript, HTML code.",
             "Integrated application code with Mysql, PostgreSQL and MongoDB databases.",
             "Developed a PHP REST API, PHP Smarty templating updates and bug fixes.",
             "Linux systems admin, Virtual Machine setup/admin/integration."
           ],
           "result": [
             "Continued smooth operation and online sales for the web application stakeholders.",
+            "Improved legacy systems development and maintenance workflows leveraging Virtual Machines",
             "Improved documentation."
           ]
         },
@@ -230,12 +245,12 @@
         ],
         "par": {
           "problem": [
-            "Consulting service to review and advise a BPO Call Center."
+            "Consulting service to review and advise a Business Process Outsource (BPO) Call Center."
           ],
           "action": [
-            "Network security, VOIP inbound and outbound ViciDial systems.",
-            "VOIP inbound and outbound ViciDial systems.",
-            "Assist with implementation of additional VOIP service provider."
+            "Reviewed Network access and security.",
+            "Reviewed call center VOIP inbound and outbound ViciDial systems.",
+            "Assisted with implementation of additional VOIP service provider."
           ],
           "result": [
             "Lowered overall cost of VOIP operations.",
@@ -248,9 +263,9 @@
         "employer": "Sargas, Inc",
         "location": "Pampanga, Philippines",
         "url": "http://sargas.asia",
-        "position": "IT consultant and Systems Engineering",
+        "position": "CTO and Co-founder",
         "summary": [
-          "SUMMARY TODO"
+          "Sargas, Inc. is a provider of 24/7 call center and business process outsourcing services."
         ],
         "start": "2012-01-01",
         "end": "2012-07-01",
@@ -260,19 +275,18 @@
         ],
         "par": {
           "problem": [
-            "Founding Partner and CTO of BPO outsourcing company."
+            "Establish a Business Process Outsourcing (BPO) Start Up."
           ],
           "action": [
-            "Call center IT operations including network security, VOIP inbound and outbound ViciDial systems.",
-            "Implement a Thin Client Solution (Diskless Workstations) for Linux Ubuntu operating systems (12 workstatsion with LTSP).",
-            "Microsoft windows client workstation cluster setup and administration (12 workstations).",
-            "Install, confgiure and maintain Linux Suse ViciDial server",
-            "Advanced networking with Linux firewall and routing.",
-            "Advanced VOIP setup, configuration and admin."
-          ],
+            "Found and fitted out an office location for business operations.",
+            "Setup a new network of Unix servers and Agent workstations",
+            "VOIP operations setup using Suse Linux VidiDial (inbound and outbound)",
+            "Implement advanced Linux Routing, Firewalling and Network security.",
+            "Implement a Thin Client Solution (Diskless Workstations) for Linux Ubuntu operating systems (12 workstatsions with LTSP).",
+            "Microsoft Windows client workstation cluster setup and administration (12 workstations)."          ],
           "result": [
-            "TODO",
-            "Improved Total Cost of Ownership (TCO)."
+            "Successful BPO creation and up and running",
+            "Total Cost of Ownership (TCO) kept to a minimum using open source software."
           ]
         },
         "highlights": []
@@ -300,13 +314,13 @@
         "par": {
           "problem": [
             "HFM required a Front-end and Back-end developer with Devops and Unix Systems admin skills.",
-            "The company has a small suite of existing web and mobile apps including high traffic review site, with CMS backend, and a free streaming media sites."
+            "The company has a small suite of existing web and mobile apps, including high traffic review site, with CMS backend, and a free streaming media sites."
           ],
           "action": [
             "Oversaw and participated primarily in PHP and Python back-end and Javascript front-end web development.",
             "Re-implemented improved front-end build systems and deployment processes.",
             "Web app project management with RedMine (installation, admin and use).",
-            "Developed CDN integration for video content and image media.",
+            "Developed CDN integration of video content and image media.",
             "Smarty PHP templating systems development, maintenance and bug fixes.",
             "Linux systems admin, Virtual Machine setup/admin/integration.",
             "Highly available HTTP service using Nginx, Apache and Varnish cache.",
@@ -317,8 +331,8 @@
             "Day to day running, development and maintenance of the web and mobile sites remained smooth and profitable.",
             "Total cost of ownership remained low, as almost all software used is open source",
             "Hosting costs were reduced with the implementation of caching systems (primarily Varnish cache).",
-            "Local developer productivity greating improved with the implmentation of development virtual machines.",
-            "Design team work flow and productivity improved with implementation of improved build and deployment processes."
+            "Local developer productivity greatly improved with the implementation of development virtual machines.",
+            "Design team work flow and productivity improved by implementation of improved build and deployment processes."
           ]
         },
         "highlights": []
@@ -348,7 +362,7 @@
           "problem": [
             "Join a rapidly growing team of Web Developers, Designers and Encoders.",
             "Required Front-end and Back-end development of a multimedia CMS web app system.",
-            "Required administration of a content affliation web application.",
+            "Required administration of a content affiliation web application.",
             "Required Linux and FreeBSD devops and systems administration."
           ],
           "action": [
@@ -360,9 +374,9 @@
             "Linux systems administration and Database administration."
           ],
           "result": [
-            "Succsessful rapid growth, operation and sales for the company stakeholders.",
+            "Successful rapid growth, operation and sales for the company stakeholders.",
             "Over the course of several years we built, profited and sold several web applications",
-            "Ultimately the company was aquired and I moved with the founders to my next job."
+            "Ultimately the company was acquired and I moved with the founders to my next job."
           ]
         },
         "highlights": []
@@ -403,7 +417,7 @@
           ],
           "result": [
             "Several web sites build and launched successfully for the stakeholders and external clients.",
-            "Initially developed on bare metal hosted onsite then migrated to cloud providers which lowered total cost of ownership"
+            "Initially developed on bare metal hosted on-site then migrated to cloud providers which lowered total cost of ownership"
           ]
         },
         "highlights": []
