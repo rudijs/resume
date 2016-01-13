@@ -10,6 +10,7 @@
 
   <!-- Bootstrap -->
   <link href="assets/css/bootstrap.min.css" rel="stylesheet">
+  <link href="assets/css/styles.css" rel="stylesheet">
 
   <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
   <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -38,8 +39,7 @@
           </div>
           <div class="col-md-6"><img src="{{info.image}}" alt="{{name}}" class="img-rounded" /></div>
         </div>
-        <h3>About</h3>
-        {{#info.brief}}
+        <h3>About</h3> {{#info.brief}}
         <p>{{.}}</p>
         {{/info.brief}}
       </div>
@@ -85,52 +85,49 @@
       <h1>Work Experience</h1> {{#employment.history}}
       <div class="panel panel-default">
         <div class="panel-heading">
-          <h3 class="panel-title">{{position}}, <a href="{{url}}" target="_blank">{{employer}}</a></h3>
+          <h3 class="panel-title"><b>{{position}}</b></h3>
         </div>
         <div class="panel-body">
-          <p>{{employmentPeriod}} <i>{{employmentPeriodHumanize}}</i> - {{location}}</p>
+          <p><a href="{{url}}" target="_blank">{{employer}}</a>
+            <p>{{employmentPeriod}} <i>{{employmentPeriodHumanize}}</i> - {{location}}</p>
 
-          {{#summary}}
-          <p>{{.}}</p>
-          {{/summary}}
-          <br>
+            {{#summary}}
+            <p class="summary">{{.}}</p>
+            {{/summary}}
+            <br>
 
-          <i><small>Problem</small></i>
-          {{#par.problem}}
-          <p>{{.}}</p>
-          {{/par.problem}}
-          <br>
+            <i><small><b>Problem</b></small></i> {{#par.problem}}
+            <p>{{.}}</p>
+            {{/par.problem}}
+            <br>
 
-          <i><small>Action</small></i>
-          {{#par.action}}
-          <p>{{.}}</p>
-          {{/par.action}}
-          <br>
+            <i><small><b>Action</b></small></i> {{#par.action}}
+            <p>{{.}}</p>
+            {{/par.action}}
+            <br>
 
-          <i><small>Result</small></i>
-          {{#par.result}}
-          <p>{{.}}</p>
-          {{/par.result}}
-
-          {{#highlights}}
-          <p>{{.}}</p>
-          {{/highlights}}
+            <i><small><b>Result</b></small></i> {{#par.result}}
+            <p>{{.}}</p>
+            {{/par.result}} {{#highlights}}
+            <p>{{.}}</p>
+            {{/highlights}}
 
         </div>
       </div>
       {{/employment.history}}
 
-      <h1>Open Source Projects and Modules</h1>
+      <h1>Open Source Projects</h1>
       <div class="panel panel-default">
-        <div class="panel-heading">
-          <h3 class="panel-title">TODO</h3>
-        </div>
         <div class="panel-body">
-          TODO
+          <ul>
+            {{#openSource}} {{#projects}}
+            <li><a href="{{url}}" target="_blank">{{name}}</a> - {{description}}</li>
+            {{/projects}} {{/openSource}}
+          </ul>
         </div>
       </div>
 
-      <h1>Skills</h1> {{#skills.sets}}
+      <!--<h1>Skills</h1> {{#skills.sets}}
       <div class="panel panel-default">
         <div class="panel-heading">
           <h3 class="panel-title">{{name}} - {{level}}</h3>
@@ -139,9 +136,9 @@
           {{#skills}} {{.}} {{/skills}}
         </div>
       </div>
-      {{/skills.sets}}
+      {{/skills.sets}}-->
 
-      <h1>Technical Interests and Tinkerings</h1>
+      <!--<h1>Technical Interests and Tinkerings</h1>
       <div class="panel panel-default">
         <div class="panel-heading">
           <h3 class="panel-title">TODO</h3>
@@ -149,28 +146,34 @@
         <div class="panel-body">
           TODO
         </div>
-      </div>
-
-      <h1>Education</h1> {{#education.history}}
-      <div class="panel panel-default">
-        <div class="panel-heading">
-          <h3 class="panel-title"><a href="{{url}}" target="_blank">{{summary}}</a> - {{institution}}</h3>
-        </div>
-        <div class="panel-body">
-          {{#curriculum}}
-          <a href="{{url}}" target="_blank">{{name}}</a>
-          <br> {{/curriculum}}
-        </div>
-      </div>
-      {{/education.history}}
+      </div>-->
 
       <h1>Writing</h1>
+      <div class="panel panel-default">
+        <div class="panel-body">
+          <ul>
+            {{#writing}}
+            <li><a href="{{url}}" target="_blank">{{title}}</a> ({{flavor}})</li>
+            {{/writing}}
+          </ul>
+        </div>
+      </div>
 
-      <ul>
-        {{#writing}}
-        <li><a href="{{url}}" target="_blank">{{title}}</a> ({{flavor}})</li>
-        {{/writing}}
-      </ul>
+      <h1>Education</h1>
+      <div class="panel panel-default">
+        <div class="panel-body">
+          <ul>
+          {{#education.history}}
+          <li><a href="{{url}}" target="_blank">{{summary}}</a> - {{institution}}</li>
+          <ol>
+          {{#curriculum}}
+            <li><a href="{{url}}" target="_blank">{{name}}</a></li>
+          {{/curriculum}}
+          </ol>
+          {{/education.history}}
+          </ul>
+        </div>
+      </div>
 
     </div>
   </div>
