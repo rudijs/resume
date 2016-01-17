@@ -602,7 +602,7 @@
         "start": "",
         "end": "",
         "grade": "A",
-        "summary": "Plural Sight Courses",
+        "summary": "Plural Sight Online Courses",
         "curriculum": [
           {
             "name": "Yeoman Fundamentals",
@@ -668,7 +668,7 @@
         "start": "",
         "end": "",
         "grade": "A",
-        "summary": "Egg Head Courses",
+        "summary": "Egg Head Online Courses",
         "curriculum": [
           {
             "name": "Angular and Webpack for Modular Applications",
@@ -681,12 +681,30 @@
         ]
       },
       {
+        "institution": "Lynda.com",
+        "url": "http://www.lynda.com",
+        "start": "",
+        "end": "",
+        "grade": "A",
+        "summary": "Lynda.com Online Courses",
+        "curriculum": [
+          {
+            "name": "Up and Running with Slack",
+            "url": "http://www.lynda.com/Slack-tutorials/Up-Running-Slack/383930-2.html"
+          },
+          {
+            "name": "Agile at Work: Building Your Agile Team",
+            "url": "http://www.lynda.com/Business-Skills-tutorials/Agile-Work-Building-Your-Agile-Team/175073-2.html"
+          }
+        ]
+      },
+      {
         "institution": "Code School",
         "url": "https://www.codeschool.com/users/127856",
         "start": "2013-01-01",
         "end": "present",
         "grade": "A",
-        "summary": "Code School Courses",
+        "summary": "Code School Online Courses",
         "curriculum": [
           {
             "name": "Git Real",
