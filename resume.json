@@ -605,6 +605,14 @@
         "summary": "Plural Sight Online Courses",
         "curriculum": [
           {
+            "name": "Practical Design Patterns in JavaScript",
+            "url": "http://app.pluralsight.com/courses/javascript-practical-design-patterns"
+          },
+          {
+            "name": "Getting Started With Elasticsearch for .NET Developers",
+            "url": "http://app.pluralsight.com/courses/elasticsearch-for-dotnet-developers"
+          },
+          {
             "name": "Yeoman Fundamentals",
             "url": "http://app.pluralsight.com/courses/yeoman-fundamentals"
           },
