@@ -53,17 +53,51 @@
     "summary": "",
     "history": [
       {
+        "employer": "AXA Group Solutions",
+        "location": "Hong Kong",
+        "url": "https://www.axa-groupsolutions.com/",
+        "position": "Tech Lead, Senior Web Developer, DevOps, Web Operations",
+        "summary": [
+          "AXA Group Solutions is an AXA Group company which serves most of AXA’s entities."
+        ],
+        "start": "2016-04-25",
+        "end": "present",
+        "keywords": [
+          "TODO"
+        ],
+        "par": {
+          "problem": [
+            "Create a core Agile team to develop technical solutions for AXA Asia region entities.",
+            "Develop HTTP Rest APIs required Asian regional systems integration.",
+            "Focus on Agile methodologies with disciplined work process, accountability, visibility and product deliverys.",
+            "Liaise and work with other teams, stakeholders, Actuaries, and eCommerce partners."
+          ],
+          "action": [
+            "Implement Restful HTTP APIs with Node.JS using Strongloop API technology.",
+            "Develop secure productive local containerized developer work environments enabling rapid onboarding.",
+            "Establish Continous Ingration and Delivery piplelines that incorporate local pre-release penetration testing.",
+            "Docker build process deployed into a regional data center running on the OpenShift platform for container orchestration.",
+            "Develop Site Reliability Playbooks for application maintenance and support."
+          ],
+          "result": [
+            "Successfully delivered phase one the digital transformation process for regional identity management and access.",
+            "Set an example of proper devops and engineering practices, workflow and delivery for other teams to learn from and also use.",
+            "Mentored junior developers helping to upskill and improve their skills and critical thinking."
+          ]
+        },
+        "highlights": []
+      },
+      {
         "employer": "Ride Share Market",
         "location": "Bangkok, Thailand (remote)",
         "url": "https://ridesharemarket.com",
         "position": "Web Developer, DevOps, Web Operations",
         "summary": [
           "Ride Share Market is free to use ride sharing web and mobile site.",
-          "Currently in the MVP stage (minimum viable product)",
-          "Development is on going."
+          "The site is currently offline, unable to gain enough traction the stakeholders have ceased the project."
         ],
         "start": "2014-11-01",
-        "end": "present",
+        "end": "2016-06-01",
         "keywords": [
           "AngularJS",
           "Node.js",
