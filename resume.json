@@ -67,21 +67,22 @@
         ],
         "par": {
           "problem": [
-            "Create a core Agile team to develop technical solutions for AXA Asia region entities.",
-            "Develop HTTP Rest APIs required Asian regional systems integration.",
-            "Focus on Agile methodologies with disciplined work process, accountability, visibility and product deliverys.",
+            "Create a core Agile team to develop technical solutions for AXA's Asia region entities.",
+            "Develop HTTP RESTful APIs required for Asian regional systems integration.",
+            "Focus on Agile methodologies with disciplined work process, accountability, visibility and product deliveries.",
             "Liaise and work with other teams, stakeholders, Actuaries, and eCommerce partners."
           ],
           "action": [
             "Implement Restful HTTP APIs with Node.JS using Strongloop API technology.",
             "Develop secure productive local containerized developer work environments enabling rapid onboarding.",
-            "Establish Continous Ingration and Delivery piplelines that incorporate local pre-release penetration testing.",
-            "Docker build process deployed into a regional data center running on the OpenShift platform for container orchestration.",
-            "Develop Site Reliability Playbooks for application maintenance and support."
+            "Establish Continuous Integration and Continuous Delivery piplelines that incorporate local pre-release penetration testing and code analysis.",
+            "Focus on always-on infrastructure, ensuring strong security, flexible automation and service resilience.",
+            "Establish Docker build process deploying into a regional data center running the OpenShift platform for container orchestration.",
+            "Create Site Reliability Playbooks for application maintenance and support."
           ],
           "result": [
             "Successfully delivered phase one the digital transformation process for regional identity management and access.",
-            "Set an example of proper devops and engineering practices, workflow and delivery for other teams to learn from and also use.",
+            "Set an example of solid DevOps and Engineering best practices, workflow and delivery for other teams to learn from and also use.",
             "Mentored junior developers helping to upskill and improve their skills and critical thinking."
           ]
         },
