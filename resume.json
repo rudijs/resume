@@ -75,7 +75,7 @@
           "action": [
             "Implement Restful HTTP APIs with Node.JS using Strongloop API technology.",
             "Develop secure productive local containerized developer work environments enabling rapid onboarding.",
-            "Establish Continuous Integration and Continuous Delivery piplelines that incorporate local pre-release penetration testing and code analysis.",
+            "Establish Continuous Integration and Continuous Delivery pipelines that incorporate local pre-release penetration testing and code analysis.",
             "Focus on always-on infrastructure, ensuring strong security, flexible automation and service resilience.",
             "Establish Docker build process deploying into a regional data center running the OpenShift platform for container orchestration.",
             "Create Site Reliability Playbooks for application maintenance and support."
