@@ -5,7 +5,7 @@
     "version": "0.1.0"
   },
   "info": {
-    "label": ["Web Developer", "Web Operations", "Devops Engineer"],
+    "label": ["Full Stack Web Developer", "Digital Architect", "AWS Solutions Architect", "Devops Engineer", "Web Operations"],
     "characterClass": "",
     "brief": [
       "I'm a Full Stack Web Developer and Devops Engineer with extensive experience in building high quality sites.",
@@ -16,7 +16,7 @@
       "Posses a working knowledge of math, logic and abstraction.",
       "Willing and able to put in some time off the clock to keep skills sharp."
     ],
-    "image": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAbYAAAAJDU0OGViYTg5LWZmYTUtNDNiZS1iYTczLTFhMmVlZTQ1ZTk1Mg.jpg"
+    "image": "assets/images/rudi-starcevic-2018-03-08-600px.jpg"
   },
   "contact": {
     "website": "https://rudijs.github.io/",
@@ -48,6 +48,23 @@
   "employment": {
     "summary": "",
     "history": [
+      {
+        "employer": "Grand Red Consulting",
+        "location": "Hong Kong",
+        "url": "http://grandredlimited.com",
+        "position": "AWS Solutions Architect, Fullstack Web Developer, Web Operations, Business Analyst",
+        "summary": ["Grand Red Limited provides Software Development, Software Consulting and Back Office Business Processes."],
+        "start": "2019-07-01",
+        "end": "present",
+        "keywords": ["TODO"],
+        "par": {
+          "problem": ["TODO"],
+          "action": ["TODO"],
+          "result": ["TODO"]
+        },
+        "highlights": []
+      },
+
       {
         "employer": "Viseo",
         "location": "Hong Kong",

@@ -7,6 +7,8 @@
 - Posses a working knowledge of math, logic, & abstraction.
 - Willing and able to put in some time off the clock to keep skills sharp.
 
+## Static Site
+
 ## Development
 
 - Use node v10
