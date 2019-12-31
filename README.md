@@ -7,8 +7,12 @@
 - Posses a working knowledge of math, logic, & abstraction.
 - Willing and able to put in some time off the clock to keep skills sharp.
 
+## Static Site
+
 ## Development
 
+- Use node v10
+- `npm i -g gulp browsersync`
 - Watch source files and build on change
 - `gulp watch`
 - Start development http server (browser-sync)
