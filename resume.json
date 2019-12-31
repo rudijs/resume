@@ -75,10 +75,11 @@
           ],
           "result": [
             "Established an MIS system used on a daily basis by management and senior staff.",
-            "Improved management visibility into daily company operations, thus improving decision making processes.",
-            "Improved the HR pipeline for new and existing staff.",
-            "Reduced the monthly digital platform expenses.",
-            "Enhanced the digital security posture of the company."
+            "Improved management visibility into daily company operations, thus improving decision making processes",
+            "Improved the HR pipeline for new and existing staff",
+            "Reduced the monthly digital platform expenses",
+            "Enhanced the digital security posture of the company.",
+            "Development of a CI/CD architecture that enabled developers more quickly and independently develop, test, and deploy value safely and reliably."
           ]
         },
         "highlights": []
