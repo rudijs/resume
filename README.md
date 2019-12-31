@@ -9,6 +9,8 @@
 
 ## Development
 
+- Use node v10
+- `npm i -g gulp browsersync`
 - Watch source files and build on change
 - `gulp watch`
 - Start development http server (browser-sync)

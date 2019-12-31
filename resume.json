@@ -5,11 +5,7 @@
     "version": "0.1.0"
   },
   "info": {
-    "label": [
-      "Web Developer",
-      "Web Operations",
-      "Devops Engineer"
-    ],
+    "label": ["Web Developer", "Web Operations", "Devops Engineer"],
     "characterClass": "",
     "brief": [
       "I'm a Full Stack Web Developer and Devops Engineer with extensive experience in building high quality sites.",
@@ -53,18 +49,46 @@
     "summary": "",
     "history": [
       {
+        "employer": "Viseo",
+        "location": "Hong Kong",
+        "url": "https://www.viseo.com/en/apac",
+        "position": "Digital Architect",
+        "summary": ["Viseo is a digital solutions company providing consulting to operations."],
+        "start": "2018-12-04",
+        "end": "2019-07-01",
+        "keywords": ["TODO"],
+        "par": {
+          "problem": [
+            "Lead the Digital Innovation Practice in HKG",
+            "Lead and Manage the Digital Squad (team of 2 to 5 Developers)",
+            "Provide consulting advice to clients as requested.",
+            "Support Presales activities. Eg do demos, ppts, POCs, ideas, etc.",
+            "Support sales putting proposals together.",
+            "If we are selected to do a project, help put a team together to deliver (ie. Nearshoring to PH, or hire temp developers in HKG or leverage HKG digital squad).",
+            "Anything regarding Technical Hires – interviews and vetting candidates.",
+            "Push BlockChain & NLP in Chatbots – eg. Drive and/or participate at Though Leadership Events, do internal and client POCs.",
+            "Mange an internal Product Backlog of innovation that can be showcased.",
+            "Support Partners' solutions when required – Docker, Salesforce.com primarily",
+            "Supporting colleagues in SCO and Salesforce.com with high level solutions architecture when integrations are required.",
+            "Staying abreast with latest technologies.",
+            "Mentor and prepare training to Digital Squad staff.",
+            "Facilitate and participate in Design Thinking workshops."
+          ],
+          "action": ["TODO"],
+          "result": ["TODO"]
+        },
+        "highlights": []
+      },
+
+      {
         "employer": "AXA Group Solutions",
         "location": "Hong Kong",
         "url": "https://www.axa-groupsolutions.com/",
         "position": "Tech Lead, Senior Web Developer, DevOps, Web Operations",
-        "summary": [
-          "AXA Group Solutions is an AXA Group company which serves most of AXA’s entities."
-        ],
+        "summary": ["AXA Group Solutions is an AXA Group company which serves most of AXA’s entities."],
         "start": "2016-04-25",
-        "end": "present",
-        "keywords": [
-          "TODO"
-        ],
+        "end": "2017-07-01",
+        "keywords": ["TODO"],
         "par": {
           "problem": [
             "Create a core Agile team to develop technical solutions for AXA Asia region entities.",
@@ -98,19 +122,7 @@
         ],
         "start": "2014-11-01",
         "end": "2016-06-01",
-        "keywords": [
-          "AngularJS",
-          "Node.js",
-          "Chef",
-          "VirtualBox",
-          "MongoDB",
-          "Couchbase",
-          "NGINX",
-          "HTML",
-          "CSS",
-          "Javascript",
-          "Bash"
-        ],
+        "keywords": ["AngularJS", "Node.js", "Chef", "VirtualBox", "MongoDB", "Couchbase", "NGINX", "HTML", "CSS", "Javascript", "Bash"],
         "par": {
           "problem": [
             "Greenfield single page web application project.",
@@ -143,24 +155,10 @@
         "location": "Queensland, Australia (remote)",
         "url": "http://klixplus.com",
         "position": "Devops Engineer, Web Developer, Web Operations",
-        "summary": [
-          "KlixPlus specializes in high-end website design, digital media, corporate branding and creative marketing."
-        ],
+        "summary": ["KlixPlus specializes in high-end website design, digital media, corporate branding and creative marketing."],
         "start": "2014-12-01",
         "end": "2015-04-01",
-        "keywords": [
-          "Chef",
-          "VirtualBox",
-          "Postgresql",
-          "Couchbase",
-          "NGINX",
-          "HTML",
-          "CSS",
-          "Javascript",
-          "PHP",
-          "Python",
-          "Bash"
-        ],
+        "keywords": ["Chef", "VirtualBox", "Postgresql", "Couchbase", "NGINX", "HTML", "CSS", "Javascript", "PHP", "Python", "Bash"],
         "par": {
           "problem": [
             "Migrate a cluster of http servers, proxies and databases from the US to EU.",
@@ -197,24 +195,12 @@
         "location": "Illinois, United States (remote)",
         "url": "https://www.linkedin.com/company/ajam-holdings-llc",
         "position": "Web Developer, Systems Admin",
-        "summary": [
-          "Front-End and back-End web application programming plus Linux systems administration for a suite of online Nutraceutical stores."
-        ],
+        "summary": ["Front-End and back-End web application programming plus Linux systems administration for a suite of online Nutraceutical stores."],
         "start": "2013-08-01",
         "end": "2014-06-01",
-        "keywords": [
-          "HTML",
-          "CSS",
-          "Javascript",
-          "PHP",
-          "MySql",
-          "WordPress",
-          "CentOS Linux"
-        ],
+        "keywords": ["HTML", "CSS", "Javascript", "PHP", "MySql", "WordPress", "CentOS Linux"],
         "par": {
-          "problem": [
-            "Tasked with maintenance and bug fixing for a pre-existing affiliate sales program and WordPress sites."
-          ],
+          "problem": ["Tasked with maintenance and bug fixing for a pre-existing affiliate sales program and WordPress sites."],
           "action": [
             "Orientated myself on how the systems integrate (various scheduled tasks for billing, web hooks, report generation).",
             "Implement price point updates, template system updates that integrate with a custom USPS product delivery service.",
@@ -242,14 +228,7 @@
         ],
         "start": "2012-12-01",
         "end": "2013-08-01",
-        "keywords": [
-          "Ruby on Rails",
-          "PHP",
-          "Node.js",
-          "MySql",
-          "Postgresql",
-          "MongoDB"
-        ],
+        "keywords": ["Ruby on Rails", "PHP", "Node.js", "MySql", "Postgresql", "MongoDB"],
         "par": {
           "problem": [
             "Join and contribute to an existing Web Development team of Rails developers, PHP developers and HTML/CSS designers.",
@@ -281,23 +260,15 @@
         ],
         "start": "2012-04-01",
         "end": "2012-07-01",
-        "keywords": [
-          "AngularJS",
-          "Node.js"
-        ],
+        "keywords": ["AngularJS", "Node.js"],
         "par": {
-          "problem": [
-            "Consulting service to review and advise a Business Process Outsource (BPO) Call Center."
-          ],
+          "problem": ["Consulting service to review and advise a Business Process Outsource (BPO) Call Center."],
           "action": [
             "Reviewed Network access and security.",
             "Reviewed call center VOIP inbound and outbound ViciDial systems.",
             "Assisted with implementation of additional VOIP service provider."
           ],
-          "result": [
-            "Lowered overall cost of VOIP operations.",
-            "Added VOIP redundancy."
-          ]
+          "result": ["Lowered overall cost of VOIP operations.", "Added VOIP redundancy."]
         },
         "highlights": []
       },
@@ -306,30 +277,21 @@
         "location": "Pampanga, Philippines",
         "url": "http://sargas.asia",
         "position": "CTO and Co-founder",
-        "summary": [
-          "Sargas, Inc. is a provider of 24/7 call center and business process outsourcing services."
-        ],
+        "summary": ["Sargas, Inc. is a provider of 24/7 call center and business process outsourcing services."],
         "start": "2012-01-01",
         "end": "2012-07-01",
-        "keywords": [
-          "AngularJS",
-          "Node.js"
-        ],
+        "keywords": ["AngularJS", "Node.js"],
         "par": {
-          "problem": [
-            "Establish a Business Process Outsourcing (BPO) Start Up."
-          ],
+          "problem": ["Establish a Business Process Outsourcing (BPO) Start Up."],
           "action": [
             "Found and fitted out an office location for business operations.",
             "Setup a new network of Unix servers and Agent workstations",
             "VOIP operations setup using Suse Linux VidiDial (inbound and outbound)",
             "Implement advanced Linux Routing, Firewalling and Network security.",
             "Implement a Thin Client Solution (Diskless Workstations) for Linux Ubuntu operating systems (12 workstatsions with LTSP).",
-            "Microsoft Windows client workstation cluster setup and administration (12 workstations)."          ],
-          "result": [
-            "Successful BPO creation and up and running",
-            "Total Cost of Ownership (TCO) kept to a minimum using open source software."
-          ]
+            "Microsoft Windows client workstation cluster setup and administration (12 workstations)."
+          ],
+          "result": ["Successful BPO creation and up and running", "Total Cost of Ownership (TCO) kept to a minimum using open source software."]
         },
         "highlights": []
       },
@@ -344,15 +306,7 @@
         ],
         "start": "2010-10-01",
         "end": "2012-06-01",
-        "keywords": [
-          "Python",
-          "Django",
-          "PHP",
-          "PostgreSql",
-          "Javascript",
-          "HTML",
-          "CSS"
-        ],
+        "keywords": ["Python", "Django", "PHP", "PostgreSql", "Javascript", "HTML", "CSS"],
         "par": {
           "problem": [
             "HFM required a Front-end and Back-end developer with Devops and Unix Systems admin skills.",
@@ -389,17 +343,7 @@
         ],
         "start": "2004-02-01",
         "end": "2010-07-01",
-        "keywords": [
-          "PHP",
-          "Mysql",
-          "PostgreSql",
-          "Javascript",
-          "HTML",
-          "CSS",
-          "Devops",
-          "Systems Administration",
-          "Web Operations"
-        ],
+        "keywords": ["PHP", "Mysql", "PostgreSql", "Javascript", "HTML", "CSS", "Devops", "Systems Administration", "Web Operations"],
         "par": {
           "problem": [
             "Join a rapidly growing team of Web Developers, Designers and Encoders.",
@@ -434,21 +378,9 @@
         ],
         "start": "2001-03-01",
         "end": "2003-11-01",
-        "keywords": [
-          "Coldfusion",
-          "PHP",
-          "PostgreSql",
-          "Javascript",
-          "HTML",
-          "CSS",
-          "Devops",
-          "Systems Administration",
-          "Web Operations"
-        ],
+        "keywords": ["Coldfusion", "PHP", "PostgreSql", "Javascript", "HTML", "CSS", "Devops", "Systems Administration", "Web Operations"],
         "par": {
-          "problem": [
-            "First Alliance required a Front-end and Back-end developer with Devops and Unix Systems admin skills."
-          ],
+          "problem": ["First Alliance required a Front-end and Back-end developer with Devops and Unix Systems admin skills."],
           "action": [
             "Senior Web Developer and Systems Administrator.",
             "Development with Coldfusion, PHP, Javascript, HTML and CSS.",
@@ -836,11 +768,7 @@
       {
         "name": "Web Development",
         "level": "Advanced",
-        "skills": [
-          "HTML",
-          "CSS",
-          "Javascript"
-        ]
+        "skills": ["HTML", "CSS", "Javascript"]
       }
     ],
     "list": []
