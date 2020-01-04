@@ -68,18 +68,20 @@
           "action": [
             "Create a Restful AWS Lambda API service to generate advanced SQL powered CSV reports for Google Sheets ingestion",
             "Use Google Apps Script to generate dynamice Pivot table reports for key data",
-            "Create a ReactJS static site using GatsbyJS for secure hosting of micro web apps on the Caspio.com platform",
+            "Develop and deploy a ReactJS static site using GatsbyJS for secure hosting of micro web apps on the Caspio.com platform",
             "Migrate an existing monolitic PHP/Jquery web aplication to the AWS platform, implemented with Devops configuration management and a CI/CD pipeline",
             "Architect and create new multi enviroment stage AWS VPC environments, migrate to AWS RDS, implement proper application secrets management",
-            "Develop resilient and cost effective data backup and disaster recovery processes"
+            "Implement and integrate distinct separate CI/CD processes for serverless APIs, single page apps and monolithic web apps",
+            "Develop resilient and cost effective data backup and disaster recovery processes",
+            "Create technical onboarding materials and establish best practice processes for new team members"
           ],
           "result": [
             "Established an MIS system used on a daily basis by management and senior staff.",
             "Improved management visibility into daily company operations, thus improving decision making processes",
             "Improved the HR pipeline for new and existing staff",
-            "Reduced the monthly digital platform expenses",
-            "Enhanced the digital security posture of the company.",
-            "Development of a CI/CD architecture that enabled developers more quickly and independently develop, test, and deploy value safely and reliably."
+            "Reduced the monthly technology portfolio expenses",
+            "Development of a CI/CD architecture that enabled developers more quickly and independently develop, test, and deploy value safely and reliably.",
+            "Enhanced and evolved the technology portfolio to deliver higher performance, reliability, security posture and operational business value."
           ]
         },
         "highlights": []
