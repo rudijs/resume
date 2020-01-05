@@ -61,9 +61,9 @@
           "problem": [
             "A rapidly growning International BPO company needing a Management Information System (MIS) for help with decision-making.",
             "The MIS system requirements also are to aide the coordination, control, analysis, and visualization of the organizations Operations and HR data.",
-            "Centralized web app(s) required for key MIS components and UI",
-            "An existing monolithic web application to be migrated to the AWS platform",
-            "A Business Intelligence pipepline is needed to ingest, store and report on the BPO client projects"
+            "Centralized web app(s) required for key MIS components and UI.",
+            "An existing monolithic web application to be migrated to the AWS platform.",
+            "A Business Intelligence pipepline is needed to ingest, store and report on the BPO client projects."
           ],
           "action": [
             "Create a Restful AWS Lambda API service to generate advanced SQL powered CSV reports for Google Sheets ingestion",
