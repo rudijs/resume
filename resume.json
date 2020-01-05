@@ -71,8 +71,10 @@
             "Develop and deploy a ReactJS static site using GatsbyJS for secure hosting of micro web apps on the Caspio.com platform",
             "Migrate an existing monolitic PHP/Jquery web aplication to the AWS platform, implemented with Devops configuration management and a CI/CD pipeline",
             "Architect and create new multi enviroment stage AWS VPC environments, migrate to AWS RDS, implement proper application secrets management",
-            "Implement and integrate distinct separate CI/CD processes for serverless APIs, single page apps and monolithic web apps",
-            "Develop resilient and cost effective data backup and disaster recovery processes",
+            "Implement web development and web operations procedures to perform operations as code and to practice failure senarios",
+            "Build and deploy distinct separate CI/CD processes for serverless APIs, single page apps and monolithic web apps",
+            "Create an automated end-to-end testing suite to enable rapid feedback on the flow of changes into production",
+            "Develop resilient and cost effective data backup and scheduled tested disaster recovery procedures",
             "Create technical onboarding materials and establish best practice processes for new team members"
           ],
           "result": [
