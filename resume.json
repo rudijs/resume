@@ -59,23 +59,23 @@
         "keywords": ["TODO"],
         "par": {
           "problem": [
-            "A rapidly growning International BPO company needing a Management Information System (MIS) for help with decision-making.",
+            "A rapidly growing International BPO company needing a Management Information System (MIS) for help with decision-making.",
             "The MIS system requirements also are to aide the coordination, control, analysis, and visualization of the organizations Operations and HR data.",
             "Centralized web app(s) required for key MIS components and UI.",
             "An existing monolithic web application to be migrated to the AWS platform.",
-            "A Business Intelligence pipepline is needed to ingest, store and report on the BPO client projects."
+            "A Business Intelligence pipeline is needed to ingest, store and report on the BPO client projects."
           ],
           "action": [
             "Create a Restful AWS Lambda API service to generate advanced SQL powered CSV reports for Google Sheets ingestion",
-            "Use Google Apps Script to generate dynamice Pivot table reports for key data",
+            "Use Google Apps Script to generate dynamic Pivot table reports for key data",
             "Develop and deploy a ReactJS static site using GatsbyJS for secure hosting of micro web apps on the Caspio.com platform",
-            "Migrate an existing monolitic PHP/Jquery web aplication to the AWS platform, implemented with Devops configuration management and a CI/CD pipeline",
-            "Architect and create new multi enviroment stage AWS VPC environments, migrate to AWS RDS, implement proper application secrets management",
-            "Implement web development and web operations procedures to perform operations as code and to practice failure senarios",
+            "Migrate an existing monolithic PHP/Jquery web application to the AWS platform, implemented with Devops configuration management and a CI/CD pipeline",
+            "Architect and create new multi environment stage AWS VPCs, migrate to AWS RDS, implement proper application secrets management",
+            "Implement web development and web operations procedures to perform operations as code and to practice failure scenarios.",
             "Build and deploy distinct separate CI/CD processes for serverless APIs, single page apps and monolithic web apps",
             "Create an automated end-to-end testing suite to enable rapid feedback on the flow of changes into production",
             "Develop resilient and cost effective data backup and scheduled tested disaster recovery procedures",
-            "Create technical onboarding materials and establish best practice processes for new team members"
+            "Create technical on-boarding materials and establish best practice processes for new team members"
           ],
           "result": [
             "Established an MIS system used on a daily basis by management and senior staff.",
@@ -117,10 +117,10 @@
           ],
           "action": [
             "Establish a new Organizational level code repository for the regional Innovation Team",
-            "Built an open source containerized CI/CD web application for use in corporate demostrations and public presentations",
-            "Do CI/CD presentations and demonstrations for clients and plubic gatherings (Cloud Expo Asia Hong Kong, Docker User Groups Hong Kong)",
+            "Built an open source containerized CI/CD web application for use in corporate demonstrations and public presentations",
+            "Do CI/CD presentations and demonstrations for clients and public gatherings (Cloud Expo Asia Hong Kong, Docker User Groups Hong Kong)",
             "Participated in the design and development of POC serverless single page app using ReactJS and AWS Lambda with the new Innovation squad for a client RFC",
-            "Consult for, architect and create a POC serverless asynchonous event driven application on AWS for large scale metrics ingestion and post processing"
+            "Consult for, architect and create a POC serverless asynchronous event driven application on AWS for large scale metrics ingestion and post processing"
           ],
           "result": [
             "Expanded Viseo's presence, footprint and influence in Hong Kong",
@@ -145,20 +145,20 @@
           "problem": [
             "Create a core Agile team to develop technical solutions for AXA Asia region entities.",
             "Develop HTTP Rest APIs required Asian regional systems integration.",
-            "Focus on Agile methodologies with disciplined work process, accountability, visibility and product deliverys.",
+            "Focus on Agile methodologies with disciplined work process, accountability, visibility and product delivery's.",
             "Liaise and work with other teams, stakeholders, Actuaries, and eCommerce partners."
           ],
           "action": [
             "Implement Restful HTTP APIs with Node.JS using Strongloop API technology.",
             "Develop secure productive local containerized developer work environments enabling rapid onboarding.",
-            "Establish Continous Ingration and Delivery piplelines that incorporate local pre-release penetration testing.",
+            "Establish Continuous Integration and Delivery pipelines that incorporate local pre-release penetration testing.",
             "Docker build process deployed into a regional data center running on the OpenShift platform for container orchestration.",
             "Develop Site Reliability Playbooks for application maintenance and support."
           ],
           "result": [
             "Successfully delivered phase one the digital transformation process for regional identity management and access.",
             "Set an example of proper devops and engineering practices, workflow and delivery for other teams to learn from and also use.",
-            "Mentored junior developers helping to upskill and improve their skills and critical thinking."
+            "Mentored junior developers helping to up-skill and improve their skills and critical thinking."
           ]
         },
         "highlights": []
@@ -340,7 +340,7 @@
             "Setup a new network of Unix servers and Agent workstations",
             "VOIP operations setup using Suse Linux VidiDial (inbound and outbound)",
             "Implement advanced Linux Routing, Firewalling and Network security.",
-            "Implement a Thin Client Solution (Diskless Workstations) for Linux Ubuntu operating systems (12 workstatsions with LTSP).",
+            "Implement a Thin Client Solution (Diskless Workstations) for Linux Ubuntu operating systems (12 workstations with LTSP).",
             "Microsoft Windows client workstation cluster setup and administration (12 workstations)."
           ],
           "result": ["Successful BPO creation and up and running", "Total Cost of Ownership (TCO) kept to a minimum using open source software."]
@@ -354,7 +354,7 @@
         "position": "Senior Web Developer, Web Operations and Systems Admin",
         "summary": [
           "Hyper Focus Media (HFM) is an Internet content media production company, streaming video, SEO and affiliate review site network.",
-          "HFM was established after the aquisition of my previous employment at IMP, I joined with the founders."
+          "HFM was established after the acquisition of my previous employment at IMP, I joined with the founders."
         ],
         "start": "2010-10-01",
         "end": "2012-06-01",
@@ -426,7 +426,7 @@
         "position": "Senior Web Developer, Web Operations and Systems Admin",
         "summary": [
           "First Alliance is a boutique brokerage house licensed in Australia since 1999.",
-          "The brokerage stakeholders also pursued some start web sites ranging from ecommerce, immigration, fun quizzes and social media."
+          "The brokerage stakeholders also pursued some start web sites ranging from e-commerce, immigration, fun quizzes and social media."
         ],
         "start": "2001-03-01",
         "end": "2003-11-01",
