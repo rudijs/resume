@@ -49,13 +49,53 @@
     "summary": "",
     "history": [
       {
+        "employer": "AXA Group Operations Philippines",
+        "location": "Philippines",
+        "url": "https://www.linkedin.com/company/axa-group-operations/",
+        "position": "Technical Consultant",
+        "summary": [
+          "As an integral part of AXA, we create innovative technology and data solutions to help AXA fulfil its ambition of being a customer-focused, tech-led company.",
+          "Axa Group Operations is a young and dynamic division launched in 2019 and comprises 8,000 employees across 17 countries all around the globe from Paris to Pune."
+        ],
+        "start": "2020-10-01",
+        "end": "2021-12-31",
+        "keywords": ["TODO"],
+        "par": {
+          "problem": [
+            "More adoption and successful implementation of all DevOps processes and team identity.",
+            "Lack of defined struture in technical and soft skills requirement in development teams.",
+            "Non production cloud environments needing to be defined and managed.",
+            "Increase modern source and version control adoption.",
+            "Legacy web applications needing authorization and access control refactoring.",
+            "Peer review of new move to cloud initiatives, and write up reports of results."
+          ],
+          "action": [
+            "Create a regional monthly DevOps forum, Promote the benefits of DevOps, Introduce the IEEE Standard for DevOps IEEE 2675-2021.",
+            "Build interal hands-on traning courses centered around OpenShift and AWS native services",
+            "Define a regional Developer Standard for both internal and external vendor development resources",
+            "Develop POC infrastructure as code systems and processes for data export and import into AWS cloud databases",
+            "Create a central repository initiative in github and introduce it to technical team leads.",
+            "Perform full stack web development and Kubernetes/Openshift deployment upgrades and updates.",
+            "Perform project reviews and reports - code, deployment processes, backup and disaster recovery."
+          ],
+          "result": [
+            "Improved development teams and leads on Container systems and implement CI deployment pipelines with a focus on industry best practices and standards.",
+            "Updated, migrated and upgraded legacy web apps to a newer Openshift platform",
+            "Reduced running costs through implementation of ondemand resources instead of provisioned.",
+            "Set the group service on a path toward improved development teams and improved cloud native systems",
+            "Instilled a culture of continuous improvement in the team and the organization."
+          ]
+        },
+        "highlights": []
+      },
+      {
         "employer": "Grand Red Consulting",
         "location": "Hong Kong",
         "url": "http://grandredlimited.com",
         "position": "Fullstack Web Developer, AWS Solutions Architect, Devops Engineer, Web Operations, Business Analyst",
         "summary": ["Grand Red Limited provides Software Development, Software Consulting and Back Office Business Processes."],
         "start": "2019-07-01",
-        "end": "present",
+        "end": "2020-09-01",
         "keywords": ["TODO"],
         "par": {
           "problem": [
@@ -168,10 +208,7 @@
         "location": "Bangkok, Thailand (remote)",
         "url": "https://ridesharemarket.com",
         "position": "Web Developer, DevOps, Web Operations",
-        "summary": [
-          "Ride Share Market is free to use ride sharing web and mobile site.",
-          "The site is currently offline, unable to gain enough traction the stakeholders have ceased the project."
-        ],
+        "summary": ["Ride Share Market is free to use ride sharing web and mobile site.", "The site is currently offline, unable to gain enough traction the stakeholders have ceased the project."],
         "start": "2014-11-01",
         "end": "2016-06-01",
         "keywords": ["AngularJS", "Node.js", "Chef", "VirtualBox", "MongoDB", "Couchbase", "NGINX", "HTML", "CSS", "Javascript", "Bash"],
@@ -262,11 +299,7 @@
             "Implement a unified logging system with loggly.com",
             "Sales data mining and reports production."
           ],
-          "result": [
-            "Continued smooth operation, online sales and rebilling for the web application stakeholders.",
-            "Improved documentation.",
-            "Implemented a browser testing suite with WebDriver and Selenium."
-          ]
+          "result": ["Continued smooth operation, online sales and rebilling for the web application stakeholders.", "Improved documentation.", "Implemented a browser testing suite with WebDriver and Selenium."]
         },
         "highlights": []
       },
@@ -275,9 +308,7 @@
         "location": "California, United States (remote)",
         "url": "http://sscgroupllc.com",
         "position": "Web Developer, Web Operations, Systems Admin",
-        "summary": [
-          "SSC Groupt LLC is an internet entertainment and publishing company specializing in online entertainment services, publishing, branding, and traffic generation."
-        ],
+        "summary": ["SSC Groupt LLC is an internet entertainment and publishing company specializing in online entertainment services, publishing, branding, and traffic generation."],
         "start": "2012-12-01",
         "end": "2013-08-01",
         "keywords": ["Ruby on Rails", "PHP", "Node.js", "MySql", "Postgresql", "MongoDB"],
@@ -293,11 +324,7 @@
             "Developed a PHP REST API, PHP Smarty templating updates and bug fixes.",
             "Linux systems admin, Virtual Machine setup/admin/integration."
           ],
-          "result": [
-            "Continued smooth operation and online sales for the web application stakeholders.",
-            "Improved legacy systems development and maintenance workflows leveraging Virtual Machines",
-            "Improved documentation."
-          ]
+          "result": ["Continued smooth operation and online sales for the web application stakeholders.", "Improved legacy systems development and maintenance workflows leveraging Virtual Machines", "Improved documentation."]
         },
         "highlights": []
       },
@@ -306,20 +333,13 @@
         "location": "Manila, Philippines",
         "url": "http://kineticbusinesssolutions.com",
         "position": "IT Operations",
-        "summary": [
-          "Kinetic Business Solutions provides full service offshore call center services for companies in all trades of business.",
-          "Fluent English speaking agents provide success with either inbound customer service or outbound telemarketing."
-        ],
+        "summary": ["Kinetic Business Solutions provides full service offshore call center services for companies in all trades of business.", "Fluent English speaking agents provide success with either inbound customer service or outbound telemarketing."],
         "start": "2012-04-01",
         "end": "2012-07-01",
         "keywords": ["AngularJS", "Node.js"],
         "par": {
           "problem": ["Consulting service to review and advise a Business Process Outsource (BPO) Call Center."],
-          "action": [
-            "Reviewed Network access and security.",
-            "Reviewed call center VOIP inbound and outbound ViciDial systems.",
-            "Assisted with implementation of additional VOIP service provider."
-          ],
+          "action": ["Reviewed Network access and security.", "Reviewed call center VOIP inbound and outbound ViciDial systems.", "Assisted with implementation of additional VOIP service provider."],
           "result": ["Lowered overall cost of VOIP operations.", "Added VOIP redundancy."]
         },
         "highlights": []
@@ -352,10 +372,7 @@
         "location": "Queensland, Australia (remote)",
         "url": "https://www.linkedin.com/company/hyper-focus-media",
         "position": "Senior Web Developer, Web Operations and Systems Admin",
-        "summary": [
-          "Hyper Focus Media (HFM) is an Internet content media production company, streaming video, SEO and affiliate review site network.",
-          "HFM was established after the acquisition of my previous employment at IMP, I joined with the founders."
-        ],
+        "summary": ["Hyper Focus Media (HFM) is an Internet content media production company, streaming video, SEO and affiliate review site network.", "HFM was established after the acquisition of my previous employment at IMP, I joined with the founders."],
         "start": "2010-10-01",
         "end": "2012-06-01",
         "keywords": ["Python", "Django", "PHP", "PostgreSql", "Javascript", "HTML", "CSS"],
@@ -390,9 +407,7 @@
         "location": "Queensland, Australia (On-site and remote)",
         "url": "https://www.linkedin.com/company/internet-media-productions-ltd",
         "position": "Senior Web Developer, Web Operations and Systems Admin",
-        "summary": [
-          "Internet Media Productions (IMP) is a content media production company, web and mobile streaming video media provider plus network review site."
-        ],
+        "summary": ["Internet Media Productions (IMP) is a content media production company, web and mobile streaming video media provider plus network review site."],
         "start": "2004-02-01",
         "end": "2010-07-01",
         "keywords": ["PHP", "Mysql", "PostgreSql", "Javascript", "HTML", "CSS", "Devops", "Systems Administration", "Web Operations"],
@@ -424,10 +439,7 @@
         "location": "Queensland, Australia",
         "url": "http://www.firstalliance.com.au",
         "position": "Senior Web Developer, Web Operations and Systems Admin",
-        "summary": [
-          "First Alliance is a boutique brokerage house licensed in Australia since 1999.",
-          "The brokerage stakeholders also pursued some start web sites ranging from e-commerce, immigration, fun quizzes and social media."
-        ],
+        "summary": ["First Alliance is a boutique brokerage house licensed in Australia since 1999.", "The brokerage stakeholders also pursued some start web sites ranging from e-commerce, immigration, fun quizzes and social media."],
         "start": "2001-03-01",
         "end": "2003-11-01",
         "keywords": ["Coldfusion", "PHP", "PostgreSql", "Javascript", "HTML", "CSS", "Devops", "Systems Administration", "Web Operations"],
@@ -441,10 +453,7 @@
             "Integration with 3rd party payment processors.",
             "Linux systems administration and Database administration."
           ],
-          "result": [
-            "Several web sites build and launched successfully for the stakeholders and external clients.",
-            "Initially developed on bare metal hosted on-site then migrated to cloud providers which lowered total cost of ownership"
-          ]
+          "result": ["Several web sites build and launched successfully for the stakeholders and external clients.", "Initially developed on bare metal hosted on-site then migrated to cloud providers which lowered total cost of ownership"]
         },
         "highlights": []
       }
